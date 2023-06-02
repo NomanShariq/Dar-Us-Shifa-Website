@@ -1,0 +1,189 @@
+2023-02-13T10:08:21+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php:295
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): Sina_Ext_Hooks::ajax_visit_counter('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_sina_vi...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php on line 295
+
+2023-02-13T10:08:26+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php:295
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): Sina_Ext_Hooks::ajax_visit_counter('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_sina_vi...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php on line 295
+
+2023-02-13T10:08:31+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php:295
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): Sina_Ext_Hooks::ajax_visit_counter('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_sina_vi...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php on line 295
+
+2023-02-13T10:08:36+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php:295
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): Sina_Ext_Hooks::ajax_visit_counter('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_sina_vi...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php on line 295
+
+2023-02-13T10:08:41+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php:295
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): Sina_Ext_Hooks::ajax_visit_counter('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_sina_vi...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php on line 295
+
+2023-02-13T10:08:46+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php:295
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): Sina_Ext_Hooks::ajax_visit_counter('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_sina_vi...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php on line 295
+
+2023-02-13T10:08:51+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php:295
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): Sina_Ext_Hooks::ajax_visit_counter('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_sina_vi...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php on line 295
+
+2023-02-13T10:09:00+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php:295
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): Sina_Ext_Hooks::ajax_visit_counter('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_sina_vi...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php on line 295
+
+2023-02-13T10:09:03+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php:295
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): Sina_Ext_Hooks::ajax_visit_counter('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_sina_vi...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php on line 295
+
+2023-02-13T10:09:08+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php:295
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): Sina_Ext_Hooks::ajax_visit_counter('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_sina_vi...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php on line 295
+
+2023-02-13T10:09:11+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php:295
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): Sina_Ext_Hooks::ajax_visit_counter('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_sina_vi...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php on line 295
+
+2023-02-13T10:09:16+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php:295
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): Sina_Ext_Hooks::ajax_visit_counter('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_sina_vi...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php on line 295
+
+2023-02-13T10:09:21+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php:295
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): Sina_Ext_Hooks::ajax_visit_counter('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_sina_vi...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php on line 295
+
+2023-02-13T10:09:26+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php:295
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): Sina_Ext_Hooks::ajax_visit_counter('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_sina_vi...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php on line 295
+
+2023-02-13T10:09:31+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php:295
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): Sina_Ext_Hooks::ajax_visit_counter('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_sina_vi...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php on line 295
+
+2023-02-13T10:09:36+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php:295
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): Sina_Ext_Hooks::ajax_visit_counter('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_sina_vi...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php on line 295
+
+2023-02-13T10:09:41+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php:295
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): Sina_Ext_Hooks::ajax_visit_counter('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_sina_vi...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php on line 295
+
+2023-02-13T10:09:46+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php:295
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): Sina_Ext_Hooks::ajax_visit_counter('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_sina_vi...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php on line 295
+
+2023-02-13T10:09:51+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php:295
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): Sina_Ext_Hooks::ajax_visit_counter('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_sina_vi...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php on line 295
+
+2023-02-13T10:09:56+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php:295
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): Sina_Ext_Hooks::ajax_visit_counter('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_sina_vi...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php on line 295
+
+2023-02-13T10:10:01+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php:295
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): Sina_Ext_Hooks::ajax_visit_counter('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_sina_vi...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php on line 295
+

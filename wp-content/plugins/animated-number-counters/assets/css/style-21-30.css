@@ -1,0 +1,686 @@
+.anc-6310-counter-21{
+  float: left;
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center; 
+}
+.anc-6310-counter-21-paralax{
+  float: left;
+  width: 100%;
+  background-image: url(https://blog.depositphotos.com/wp-content/uploads/2017/07/Soothing-nature-backgrounds-2.jpg.webp);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 15px;
+}
+.anc-6310-counter-21-wrap{
+  display: flex;
+}
+.anc-6310-counter-21-common-overlay {
+  background: #00000021;
+  width: 100%;
+  float: left;
+  display: flex;
+  justify-content: center;
+}
+
+.anc-6310-counter-21-wrap {
+  display: flex;
+  float: left;
+  justify-content: center;
+}
+
+.anc-6310-col-4 {
+  padding: 15px;
+  float: left;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.anc-6310-counter-21-wrapper{
+  position: relative;
+  width: 200px;
+  height: 200px;
+  animation:  4s ;
+  font-size: 20px;
+  color: #fff;
+  font-size: 40px;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+
+}
+.anc-6310-counter-21-title{
+  font-size: 20px;
+  color: #ffffff;
+  font-family: 'Vollkorn';
+  letter-spacing: 2px;
+  font-weight: 600;
+  margin-top: 20px;
+  line-height: 1.3em;
+  text-align: center;
+  float: left;
+  width: 100%;
+}
+
+.anc-6310-circle-span-counter-21 {
+  width: 50%;
+  height: 100%;
+  right: 0px;
+  position: absolute;
+   overflow: hidden;
+   transform-origin: left center;
+   animation: cliprotate 2s steps(2) ;
+   -webkit-animation: cliprotate 2s steps(2) ;
+   animation-iteration-count: 2;
+}
+
+.final-animation{
+  width: calc(100% - 14px);
+  height: calc(100% - 14px);
+  border: 7px solid transparent;
+  position: absolute;
+  border-radius: 50%;
+  animation: finalAnimation 1.9s;
+  animation-fill-mode: forwards;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  z-index: 1;
+}
+@keyframes finalAnimation {
+  0% {border-color: transparent}
+  99.99% {border-color: transparent}
+  100% {border-color: rgb(255, 255, 255);}
+}
+
+.anc-6310-circle-span-1-counter-21 {
+  box-sizing: border-box;
+  height: 100%;
+  right: 0px;
+  position: absolute;
+  border: solid 7px transparent;
+   border-top-color: rgb(255, 255, 255);
+   border-left-color: rgb(255, 255, 255);
+   border-radius: 50%;
+}
+#clipped {
+  width: 200%;
+   animation: rotate 1s linear ;
+   -webkit-animation: rotate 1s linear ;
+   animation-iteration-count: 2;
+}
+#fixed {
+  width: 100%;
+    transform: rotate(135deg);  
+   animation: showfixed 2s;
+   -webkit-animation: showfixed 2s linear ;
+   animation-iteration-count: 2;
+}
+
+@-webkit-keyframes cliprotate {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+}
+
+@keyframes cliprotate {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+}
+
+
+@-webkit-keyframes rotate {
+  0% {transform: rotate(-45deg);}
+  100% {transform: rotate(135deg);}
+}
+
+@keyframes rotate {
+  0% {transform: rotate(-45deg);}
+  100% {transform: rotate(135deg);}
+}
+
+@-webkit-keyframes showfixed {
+  0% {opacity: 0;}
+  49.9% {opacity: 0;}
+  50% {opacity: 1;}
+ 100% {opacity: 1;}
+}
+
+/* template 22  */
+
+
+.anc-6310-counter-22{
+  padding: 30px 20px;
+  border: 5px solid #ff6fca;
+  border-radius: 50px 0 50px 0;
+  text-align: center;
+  background: #101C33;
+}
+.anc-6310-counter-22 .anc-6310-counter-22-icon{
+  display: block;
+  font-size: 40px;
+  color: rgb(255, 255, 255);
+  margin-bottom: 25px;
+}
+.anc-6310-counter-22 .anc-6310-animated-counter-22{
+  display: inline-block;
+  width: 200px;
+  height: 80px;
+  line-height: 80px;
+  background: #ff6fca;
+  border-radius: 0 50px 0 50px;
+  font-size: 50px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+.anc-6310-counter-22 .anc-6310-counter-22-title{
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+}
+
+@media only screen and (max-width: 1199px) and (min-width: 990px){
+  .anc-6310-counter-22 .anc-6310-animated-counter-22 {
+      width: 150px;
+      height: 60px;
+      font-size: 40px;
+      line-height: 60px;
+  }
+}
+@media only screen and (max-width: 990px){
+  .anc-6310-counter-22{ margin-bottom: 20px; }
+}
+
+/* template 23 */
+
+.anc-6310-counter-23-paralax{
+  float: left;
+  width: 100%;
+  background-image: url(https://blog.depositphotos.com/wp-content/uploads/2017/07/Soothing-nature-backgrounds-2.jpg.webp);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 15px;
+}
+.anc-6310-counter-23{
+	text-align: center;
+	}
+.anc-6310-counter-23-icon{
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    line-height: 150px;
+    border-radius: 50%;
+    border: 3px solid #97f058;
+    font-size: 40px;
+    color: #ffffff;
+    margin-bottom: 20px;
+    position: relative;
+}
+ .anc-6310-counter-23-icon:before{
+    content: "";
+    border: 2px solid #97f058;
+    border-radius: 50%;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+}
+.anc-6310-animated-counter-23{
+    display: block;
+    float: left;
+    width: 100%;
+    font-size: 55px;
+    color: #ffffff;
+    margin-bottom: 25px;
+    margin-top: 20px;
+}
+.anc-6310-counter-23-title{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+}
+
+@media only screen and (max-width: 990px){
+    .anc-6310-counter-23{ margin-bottom: 40px; }
+}
+
+.anc-6310-counter-24{
+  padding: 0 20px 20px;
+  text-align: center;
+  z-index: 1;
+  position: relative;
+}
+.anc-6310-counter-24:after{
+  content: "";
+  width: 100%;
+  height: 75%;
+  background: linear-gradient(to right,#15bff7,#1a88da);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+  transition: all 0.3s ease 0s;
+}
+.anc-6310-counter-24:hover:after{ box-shadow: 0 0 15px rgba(255,255,255,0.6); }
+.anc-6310-counter-24-content{
+  width: 100%;
+  height: 100%;
+  background: #d6d6d6;
+  padding: 25px 0 25px;
+  margin-bottom: 15px;
+  overflow: hidden;
+  z-index: 1;
+  position: relative;
+  -webkit-clip-path: polygon(100% 0, 100% 85%, 80% 85%, 70% 100%, 60% 85%, 0 85%, 0 15%);
+  clip-path: polygon(100% 0, 100% 85%, 80% 85%, 70% 100%, 60% 85%, 0 85%, 0 15%);
+}
+.anc-6310-counter-24-icon{
+  font-size: 40px;
+  color: #1a88da;
+  transform: rotateX(360deg);
+  transition: all 0.3s ease 0s;
+  float: left;
+  width: 100%;
+  margin-bottom: 25px;
+}
+.anc-6310-counter-24:hover .anc-6310-counter-24-icon{
+transform: rotateX(0); 
+}
+.anc-6310-animated-counter-24{
+  display: block;
+  font-size: 40px;
+  font-weight: 700;
+  color: #606060;
+  margin: 0 0 60px;
+}
+.anc-6310-counter-24-title{
+  font-size: 19px;
+  font-weight: 600;
+  color: #fff;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+@media only screen and (max-width: 990px){
+  .anc-6310-counter-24{ margin-bottom: 30px; }
+}
+
+/* template 25  */
+.anc-6310-counter-25-paralax{
+  float: left;
+  width: 100%;
+  background-image: url(https://blog.depositphotos.com/wp-content/uploads/2017/07/Soothing-nature-backgrounds-2.jpg.webp);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 15px;
+}
+.anc-6310-counter-25 {
+  text-align: center;
+}
+.anc-6310-counter-25-content{
+ padding: 30px 10px 80px;
+ color: #fff;
+ z-index: 1;
+ position: relative;
+}
+.anc-6310-counter-25-content:before{
+ content: "";
+ width: 100%;
+ height: 100%;
+ background: #6b0d34;
+ position: absolute;
+ top: 0;
+ left: 0;
+ z-index: -1;
+ -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 80%, 0 100%);
+ clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 80%, 0 100%);
+}
+.anc-6310-counter-25-content:after{
+ content: "";
+ position: absolute;
+ top: 0;
+ left: 15px;
+ right: 15px;
+ bottom: 20px;
+ background: #a74970;
+ z-index: -1;
+ -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 80%, 0 100%);
+ clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 80%, 0 100%);
+}
+.anc-6310-counter-25-title{
+ font-size: 18px;
+ font-weight: 600;
+ text-transform: uppercase;
+ margin-bottom: 40px;
+}
+.anc-6310-animated-counter-25{
+ font-size: 40px;
+ font-weight:700;
+ text-shadow: 0 0 10px rgba(0,0,0,0.4);
+}
+.anc-6310-counter-25-icon{
+ display: inline-block;
+ width: 100px;
+ height: 100px;
+ line-height: 100px;
+ border-radius: 50%;
+ background: #6b0d34;
+ font-size: 50px;
+ color: #fff;
+ margin-top: -20px;
+}
+
+@media only screen and (max-width: 990px){
+ .anc-6310-counter-25{ margin-bottom: 30px; }
+}
+
+/* template 26  */
+
+.anc-6310-counter-26{
+  padding-bottom: 25px;
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  float: left;
+}
+
+.anc-6310-counter-26:after{
+  background-color: transparent;
+  border-top: 10px dotted #EB4700;
+  height: 2px;
+  width: 80px;
+  transform: translateX(-50%) translateY(0) rotate(0);
+  top: auto;
+  left: 50%;
+  bottom: 0;
+}
+.anc-6310-counter-26-content{
+  color: #fff;
+  background-color: #EB4700;
+  text-align: center;
+  border: 5px solid #fff;
+  padding: 20px;
+  margin: 0 auto;
+  width: 100%;
+  box-sizing: border-box;
+  transition: all 0.3s;
+}
+.anc-6310-counter-26:hover .anc-6310-counter-26-content{
+   box-shadow: 0 0 10px rgba(0,0,0,0.9);
+}
+.anc-6310-counter-26-icon{
+  color: #EB4700;
+  background-color: #fff;
+  font-size: 40px;
+  line-height: 70px;
+  height: 70px;
+  width: 70px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  border-radius: 50%;
+  margin-bottom: 25px;
+  display: inline-block;
+  transition: all 0.3s;
+}
+.anc-6310-counter-26:hover .anc-6310-counter-26-icon{ 
+  transform: rotateX(360deg);
+}
+.anc-6310-animated-counter-26{
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  transition: all 0.3s;
+}
+.anc-6310-counter-26-title{
+  font-size: 20px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin: 0;
+  transition: all 0.3s;
+}
+
+@media screen and (max-width:990px){
+  .anc-6310-counter-26{margin-bottom: 30px;}
+}
+/* template 27  */
+
+
+.anc-6310-counter-27{
+  color: rgb(0, 0, 0);
+  font-family: 'Rubik', sans-serif;
+  text-align: center;
+  padding-bottom: 70px;
+  position: relative;
+  z-index: 1;
+}
+.anc-6310-counter-27:before{
+  content: '';
+  background: salmon;
+  height: 135px;
+  width: 135px;
+  box-shadow: 0 0 10px blueviolet inset,
+              0 0 0 12px aqua, 0 0 0 17px coral, 0 0 35px darkcyan;
+  transform: translateX(-50%) rotate(45deg);
+  position: absolute;
+  left: 50%;
+  top: 70px;
+  z-index: -2;
+}
+.anc-6310-counter-27-icon{
+  background: yellowgreen;
+  font-size: 45px;
+  line-height: 80px;
+  height: 90px;
+  width: 90px;
+  margin: 0 auto 35px;
+  border: 5px solid black;
+  border-radius: 50%;
+  transition: all 0.3s ease 0s;
+}
+.anc-6310-counter-27:hover .anc-6310-counter-27-icon{ transform: rotate(360deg); }
+.anc-6310-counter-27-content{ padding: 0 28px; }
+.anc-6310-animated-counter-27{
+  font-size: 28px;
+  font-weight: 500;
+  display: block;
+}
+.anc-6310-counter-27-title{
+  font-weight: 500;
+  font-size: 15px;
+  letter-spacing: 1px;
+  text-transform: capitalize;
+  margin: 0 0 5px 0;
+  transition: all 0.3s ease 0s;
+}
+
+@media screen and (max-width:990px){
+  .anc-6310-counter-27{ margin-bottom: 40px; }
+}
+
+/* template 28  */
+
+
+.anc-6310-counter-28{
+  color: #4834d4;
+  background: linear-gradient(-27deg,#4834d4 50%,#686de0 51%);
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  height: 210px;
+  width: 210px;
+  padding: 20px 20px;
+  box-sizing: border-box;
+  margin: 0 auto;
+  position: relative;
+  -webkit-clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+  transition: all 0.3s;
+}
+.anc-6310-counter-28:after{
+  content: "";
+  background: #fff;
+  width: 85%;
+  height: 85%;
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  z-index: -1;
+  -webkit-clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+}
+.anc-6310-counter-28-icon{
+  color: #fff;
+  background: linear-gradient(-27deg,#4834d4 49%,#686de0 50%);
+  font-size: 40px;
+  line-height: 70px;
+  width: 120px;
+  height: 65px;
+  margin: 0 auto 20px;
+  border-radius: 0 0 15px 15px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.8);
+}
+ .anc-6310-animated-counter-28{
+  font-size: 35px;
+  font-weight: 600;
+  line-height: 20px;
+  margin: 0 0 15px;
+  display: block;
+  transition: all 0.3s ease;
+}
+.anc-6310-counter-28:hover .anc-6310-animated-counter-28{ text-shadow: 2px 2px 0 #999; }
+.anc-6310-counter-28-title{
+  font-size: 17px;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin: 0;
+  display: inline-block;
+}
+
+@media screen and (max-width:990px){
+  .anc-6310-counter-28{ margin-bottom: 40px; }
+}
+
+/* template 29  */
+
+.anc-6310-counter-29{
+  font-family: 'Muli', sans-serif;
+  text-align: center;
+  padding: 15px 0 0;
+}
+.anc-6310-counter-29-content{
+  color: #fff;
+  background-color: #E33259;
+  width: 200px;
+  min-height: 110px;
+  padding: 0 10px 10px;
+  margin: 0 auto;
+  border-radius: 20px;
+  position: relative;
+}
+.anc-6310-counter-29-content:before{
+  content: '';
+  background-color: #E33259;
+  height: 15px;
+  width: 150px;
+  border-radius: 10px 10px 0 0;
+  transform: translateX(-50%);
+  position: absolute;
+  left: 50%;
+  top: -15px;
+}
+.anc-6310-animated-counter-29{
+  float: left;
+  font-size: 30px;
+  font-weight: 700;
+  margin: 0 0 10px;
+  width: 100%;
+  display: flex;
+  box-sizing: border-box;
+  margin-top: 25px;
+  justify-content: center;
+  align-items: center;
+}
+.anc-6310-counter-29-title{
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin: 0;
+}
+.anc-6310-counter-29-icon{
+  color: #fff;
+  background-color: #E33259;
+  font-size: 40px;
+  line-height: 40px;
+  width: 70px;
+  height: 50px;
+  border-radius: 0 0 100% 100%;
+  display: inline-block;
+}
+.anc-6310-counter-29 .anc-6310-counter-29-icon i{ 
+  transition: all 0.3s ease;
+}
+.anc-6310-counter-29:hover .anc-6310-counter-29-icon i{ 
+  transform: rotateX(360deg) rotateY(360deg);
+}
+
+/* template 30  */
+
+.anc-6310-counter-30{
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  width: 100%;
+  margin: 0 auto;
+}
+.anc-6310-counter-30-icon{
+  color: #fff;
+  background-color: #3B9CC9;
+  font-size: 35px;
+  line-height: 73px;
+  height: 90px;
+  width: 90px;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+.anc-6310-counter-30-content{
+  background-color: #fff;
+  padding: 17px 15px 10px;
+  margin: -30px 0 0;
+  box-shadow:  0 0 5px rgba(0,0,0,0.05);
+  border-radius: 20px;
+  position: relative;
+}
+.anc-6310-counter-30-content:before{
+  content: '';
+  border: 2px dashed #e7e7e7;
+  border-radius: 15px;
+  position: absolute;
+  left: 6px;
+  right: 6px;
+  top: 5px;
+  bottom: 5px;
+}
+.anc-6310-counter-30-title{
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin: 0 0 15px;
+}
+ .anc-6310-animated-counter-30{
+  color: #3B9CC9;
+  font-size: 33px;
+  font-weight: 700;
+  font-style: italic;
+  display: block;
+  margin-bottom: 15px;
+}
+
+@media screen and (max-width:990px){
+  .anc-6310-counter-30{ margin-bottom: 40px; }
+}

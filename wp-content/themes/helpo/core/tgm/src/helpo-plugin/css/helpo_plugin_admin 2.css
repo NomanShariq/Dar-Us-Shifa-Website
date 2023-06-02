@@ -1,0 +1,4 @@
+body div.sc-wrap,
+body div.sc-menu {
+    display: none;
+}

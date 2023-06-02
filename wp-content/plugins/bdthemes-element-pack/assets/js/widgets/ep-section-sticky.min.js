@@ -1,0 +1,1 @@
+!function(n,e){"use strict";var t=function(n,t){var e=n;t.each(e,function(n){var e=t(this).find(".elementor-inner-section.bdt-sticky");e.length&&t(e).wrap('<div class="bdt-sticky-wrapper"></div>')})};jQuery(window).on("elementor/frontend/init",function(){e.hooks.addAction("frontend/element_ready/section",t)})}(jQuery,window.elementorFrontend);

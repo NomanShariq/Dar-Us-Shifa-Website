@@ -1,0 +1,2074 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Artureanec WP\n"
+"POT-Creation-Date: 2020-07-01 12:01+0300\n"
+"PO-Revision-Date: 2016-01-26 20:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: Artureanec <artureanec@ya.ru>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: helpo-plugin.php:389
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: helpo-plugin.php:390 helpo-plugin.php:400
+msgid "Helpo Plugin"
+msgstr ""
+
+#: helpo-plugin.php:391 helpo-plugin.php:401
+msgid "Elementor"
+msgstr ""
+
+#: helpo-plugin.php:399 helpo-plugin.php:410
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: helpo-plugin.php:411
+msgid "Press Elements"
+msgstr ""
+
+#: helpo-plugin.php:412
+msgid "PHP"
+msgstr ""
+
+#: helpo-plugin.php:426
+msgid "Helpo Widgets"
+msgstr ""
+
+#: helpo-plugin.php:522
+msgid "Number of Columns"
+msgstr ""
+
+#: helpo-plugin.php:526
+msgid "One Column"
+msgstr ""
+
+#: helpo-plugin.php:527 widgets/causes-listing.php:88 widgets/tabs.php:257
+msgid "Two Columns"
+msgstr ""
+
+#: helpo-plugin.php:528 widgets/causes-listing.php:89 widgets/tabs.php:258
+msgid "Three Columns"
+msgstr ""
+
+#: helpo-plugin.php:529 widgets/causes-listing.php:90 widgets/tabs.php:259
+msgid "Four Columns"
+msgstr ""
+
+#: helpo-plugin.php:544 widgets/causes-listing.php:59
+#: widgets/causes-slider.php:59 widgets/content-slider.php:59
+#: widgets/events.php:54 widgets/person.php:55 widgets/price-item.php:55
+#: widgets/tabs.php:59 widgets/testimonials.php:59
+msgid "View Type"
+msgstr ""
+
+#: helpo-plugin.php:548
+msgid "Default"
+msgstr ""
+
+#: helpo-plugin.php:549 widgets/blockquote.php:67 widgets/events.php:58
+#: widgets/heading.php:59 widgets/person.php:59
+msgid "View Type 1"
+msgstr ""
+
+#: helpo-plugin.php:550 widgets/blockquote.php:68 widgets/events.php:59
+#: widgets/heading.php:60 widgets/person.php:60
+msgid "View Type 2"
+msgstr ""
+
+#: helpo-plugin.php:563
+msgid "Background Color"
+msgstr ""
+
+#: widgets/address.php:15
+msgid "Contacts Widget by Helpo Theme"
+msgstr ""
+
+#: widgets/address.php:45 widgets/donation-box.php:59
+#: widgets/donation-box.php:61 widgets/donation.php:44
+#: widgets/featured-posts.php:43 widgets/icon-box.php:123
+#: widgets/linked-item.php:76 widgets/linked-item.php:78
+#: widgets/price-item.php:69 widgets/socials.php:52
+msgid "Title"
+msgstr ""
+
+#: widgets/address.php:55 widgets/socials.php:100
+msgid "Address"
+msgstr ""
+
+#: widgets/address.php:63 widgets/socials.php:108
+msgid "Phone Number"
+msgstr ""
+
+#: widgets/address.php:73 widgets/socials.php:118
+msgid "Email"
+msgstr ""
+
+#: widgets/address.php:105 widgets/socials.php:167
+msgid "Phone:"
+msgstr ""
+
+#: widgets/address.php:116 widgets/socials.php:178
+msgid "Email:"
+msgstr ""
+
+#: widgets/blockquote.php:28 widgets/blockquote.php:47
+#: widgets/blockquote.php:54
+msgid "Blockquote"
+msgstr ""
+
+#: widgets/blockquote.php:56
+msgid "Enter your text"
+msgstr ""
+
+#: widgets/blockquote.php:63
+msgid "Blockquote View Type"
+msgstr ""
+
+#: widgets/blockquote.php:81
+msgid "Blockquote Settings"
+msgstr ""
+
+#: widgets/blockquote.php:90
+msgid "Blockquote Typography"
+msgstr ""
+
+#: widgets/blockquote.php:98
+msgid "Blockquote Color"
+msgstr ""
+
+#: widgets/blockquote.php:109
+msgid "Blockquote Background"
+msgstr ""
+
+#: widgets/blog.php:29
+msgid "Blog Listing"
+msgstr ""
+
+#: widgets/blog.php:48 widgets/causes-listing.php:29
+#: widgets/causes-listing.php:52
+msgid "Causes Listing"
+msgstr ""
+
+#: widgets/blog.php:55 widgets/causes-listing.php:74
+#: widgets/causes-slider.php:172 widgets/events-listing.php:54
+#: widgets/stories.php:54
+msgid "Items Per Page"
+msgstr ""
+
+#: widgets/blog.php:64 widgets/causes-listing.php:102
+#: widgets/causes-slider.php:182 widgets/events-listing.php:64
+#: widgets/events.php:94 widgets/featured-posts.php:65
+#: widgets/recent-posts.php:80 widgets/stories.php:64
+msgid "Order By"
+msgstr ""
+
+#: widgets/blog.php:68 widgets/causes-listing.php:106
+#: widgets/causes-slider.php:186 widgets/events-listing.php:68
+#: widgets/events.php:98 widgets/recent-posts.php:84 widgets/stories.php:68
+msgid "Post Date"
+msgstr ""
+
+#: widgets/blog.php:69 widgets/causes-listing.php:107
+#: widgets/causes-slider.php:187 widgets/events-listing.php:69
+#: widgets/events.php:99 widgets/recent-posts.php:85 widgets/stories.php:69
+msgid "Random"
+msgstr ""
+
+#: widgets/blog.php:70 widgets/causes-listing.php:108
+#: widgets/causes-slider.php:188 widgets/events-listing.php:70
+#: widgets/events.php:100 widgets/recent-posts.php:86 widgets/stories.php:70
+msgid "Post ID"
+msgstr ""
+
+#: widgets/blog.php:71 widgets/causes-listing.php:109
+#: widgets/causes-slider.php:189 widgets/events-listing.php:71
+#: widgets/events.php:101 widgets/recent-posts.php:87 widgets/stories.php:71
+msgid "Post Title"
+msgstr ""
+
+#: widgets/blog.php:80 widgets/causes-listing.php:118
+#: widgets/causes-slider.php:197 widgets/events-listing.php:80
+#: widgets/events.php:110 widgets/recent-posts.php:96 widgets/stories.php:80
+msgid "Order"
+msgstr ""
+
+#: widgets/blog.php:84 widgets/causes-listing.php:122
+#: widgets/causes-slider.php:201 widgets/events-listing.php:84
+#: widgets/events.php:114 widgets/recent-posts.php:100 widgets/stories.php:84
+msgid "Descending"
+msgstr ""
+
+#: widgets/blog.php:85 widgets/causes-listing.php:123
+#: widgets/causes-slider.php:202 widgets/events-listing.php:85
+#: widgets/events.php:115 widgets/recent-posts.php:101 widgets/stories.php:85
+msgid "Ascending"
+msgstr ""
+
+#: widgets/blog.php:93 widgets/causes-listing.php:131
+#: widgets/events-listing.php:93 widgets/stories.php:117
+msgid "Pagination"
+msgstr ""
+
+#: widgets/blog.php:97 widgets/causes-listing.php:135
+#: widgets/events-listing.php:97 widgets/stories.php:121
+#: widgets/stories.php:148
+msgid "Show"
+msgstr ""
+
+#: widgets/blog.php:98 widgets/causes-listing.php:136
+#: widgets/events-listing.php:98 widgets/stories.php:122
+#: widgets/stories.php:147
+msgid "Hide"
+msgstr ""
+
+#: widgets/blog.php:253 widgets/causes-listing.php:560
+#: widgets/events-listing.php:443 widgets/stories.php:568
+msgid "Back"
+msgstr ""
+
+#: widgets/blog.php:254 widgets/causes-listing.php:561
+#: widgets/events-listing.php:444 widgets/stories.php:569
+msgid "Next"
+msgstr ""
+
+#: widgets/button.php:29 widgets/button.php:48 widgets/button.php:57
+#: widgets/content-slider.php:167 widgets/linked-item.php:126
+msgid "Button"
+msgstr ""
+
+#: widgets/button.php:55 widgets/content-slider.php:165
+#: widgets/linked-item.php:124 widgets/price-item.php:165
+#: widgets/price-item.php:168 widgets/stories.php:107
+msgid "Button Text"
+msgstr ""
+
+#: widgets/button.php:64 widgets/content-slider.php:174
+msgid "Button Link"
+msgstr ""
+
+#: widgets/button.php:71 widgets/content-slider.php:181
+#: widgets/content-slider.php:610 widgets/icon-box.php:183
+#: widgets/linked-item.php:117 widgets/person.php:149
+msgid "http://your-link.com"
+msgstr ""
+
+#: widgets/button.php:78 widgets/image.php:65
+msgid "Image Alignment"
+msgstr ""
+
+#: widgets/button.php:82 widgets/content-slider.php:242
+#: widgets/content-slider.php:270 widgets/content-slider.php:298
+#: widgets/heading.php:131 widgets/heading.php:182 widgets/icon-box.php:209
+#: widgets/image.php:69 widgets/info-box.php:104 widgets/linked-item.php:140
+msgid "Left"
+msgstr ""
+
+#: widgets/button.php:86 widgets/content-slider.php:246
+#: widgets/content-slider.php:274 widgets/content-slider.php:302
+#: widgets/heading.php:135 widgets/heading.php:186 widgets/icon-box.php:213
+#: widgets/image.php:73 widgets/info-box.php:108 widgets/linked-item.php:144
+msgid "Center"
+msgstr ""
+
+#: widgets/button.php:90 widgets/content-slider.php:250
+#: widgets/content-slider.php:278 widgets/content-slider.php:306
+#: widgets/heading.php:139 widgets/heading.php:190 widgets/icon-box.php:217
+#: widgets/image.php:77 widgets/info-box.php:112 widgets/linked-item.php:148
+msgid "Right"
+msgstr ""
+
+#: widgets/button.php:109 widgets/linked-item.php:337
+#: widgets/price-item.php:455 widgets/stories.php:275
+msgid "Button Settings"
+msgstr ""
+
+#: widgets/button.php:118 widgets/content-slider.php:765
+#: widgets/donation-box.php:233 widgets/linked-item.php:346
+#: widgets/price-item.php:484 widgets/stories.php:284
+msgid "Button Typography"
+msgstr ""
+
+#: widgets/button.php:131 widgets/content-slider.php:778
+#: widgets/donation-box.php:246 widgets/linked-item.php:359
+#: widgets/price-item.php:497 widgets/stories.php:297 widgets/tabs.php:400
+#: widgets/testimonials.php:367 widgets/video.php:182
+msgid "Normal"
+msgstr ""
+
+#: widgets/button.php:138 widgets/causes-slider.php:409
+#: widgets/content-slider.php:785 widgets/donation-box.php:253
+#: widgets/linked-item.php:366 widgets/price-item.php:504
+#: widgets/stories.php:304
+msgid "Button Color"
+msgstr ""
+
+#: widgets/button.php:149 widgets/causes-slider.php:421
+#: widgets/content-slider.php:796 widgets/donation-box.php:264
+#: widgets/linked-item.php:377 widgets/price-item.php:515
+#: widgets/stories.php:315
+msgid "Button Background"
+msgstr ""
+
+#: widgets/button.php:160 widgets/content-slider.php:807
+#: widgets/donation-box.php:275 widgets/linked-item.php:388
+#: widgets/price-item.php:526 widgets/stories.php:326
+msgid "Button Border"
+msgstr ""
+
+#: widgets/button.php:184 widgets/content-slider.php:865
+#: widgets/donation-box.php:299 widgets/linked-item.php:412
+#: widgets/price-item.php:550 widgets/stories.php:350 widgets/tabs.php:445
+#: widgets/testimonials.php:412 widgets/video.php:227
+msgid "Hover"
+msgstr ""
+
+#: widgets/button.php:191 widgets/content-slider.php:872
+#: widgets/donation-box.php:306 widgets/linked-item.php:419
+#: widgets/price-item.php:557 widgets/stories.php:357
+msgid "Button Hover"
+msgstr ""
+
+#: widgets/button.php:202 widgets/content-slider.php:883
+#: widgets/donation-box.php:317 widgets/linked-item.php:430
+#: widgets/price-item.php:568 widgets/stories.php:368
+msgid "Button Background Hover"
+msgstr ""
+
+#: widgets/button.php:213 widgets/content-slider.php:894
+#: widgets/donation-box.php:328 widgets/linked-item.php:441
+#: widgets/price-item.php:579 widgets/stories.php:379
+msgid "Button Border Hover"
+msgstr ""
+
+#: widgets/button.php:236 widgets/content-slider.php:968
+#: widgets/donation-box.php:351 widgets/linked-item.php:464
+#: widgets/price-item.php:602 widgets/stories.php:402
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/button.php:249 widgets/content-slider.php:981
+#: widgets/donation-box.php:364 widgets/linked-item.php:477
+#: widgets/price-item.php:615 widgets/stories.php:415
+msgid "Button Padding"
+msgstr ""
+
+#: widgets/cause-item.php:29 widgets/cause-item.php:47
+msgid "Cause Item"
+msgstr ""
+
+#: widgets/cause-item.php:62 widgets/causes-grid.php:67
+#: widgets/causes-slider.php:151 widgets/events.php:76
+#: widgets/recent-posts.php:62
+msgid "No Posts Were Found"
+msgstr ""
+
+#: widgets/cause-item.php:69 widgets/causes-grid.php:76
+#: widgets/recent-posts.php:69
+msgid "Choose Cause Item"
+msgstr ""
+
+#: widgets/cause-item.php:80 widgets/causes-grid.php:87
+msgid "Donation Goal"
+msgstr ""
+
+#: widgets/cause-item.php:94
+msgid "Cause Item Settings"
+msgstr ""
+
+#: widgets/cause-item.php:102 widgets/causes-grid.php:107
+msgid "Image Overlay Color"
+msgstr ""
+
+#: widgets/cause-item.php:113 widgets/causes-grid.php:141
+#: widgets/linked-item.php:200 widgets/tabs.php:332 widgets/video.php:114
+msgid "Overlay Opacity"
+msgstr ""
+
+#: widgets/cause-item.php:131 widgets/causes-grid.php:159
+#: widgets/causes-listing.php:320 widgets/causes-slider.php:351
+#: widgets/recent-posts.php:201
+msgid "Category Color"
+msgstr ""
+
+#: widgets/cause-item.php:143 widgets/causes-grid.php:171
+#: widgets/causes-listing.php:331 widgets/recent-posts.php:213
+msgid "Category Background"
+msgstr ""
+
+#: widgets/cause-item.php:154 widgets/causes-grid.php:182
+#: widgets/causes-listing.php:242 widgets/causes-slider.php:362
+#: widgets/causes-slider.php:555 widgets/content-slider.php:337
+#: widgets/donation-box.php:176 widgets/events-listing.php:195
+#: widgets/events.php:248 widgets/icon-box.php:312 widgets/linked-item.php:283
+#: widgets/price-item.php:301 widgets/recent-posts.php:260
+#: widgets/stories.php:203
+msgid "Title Color"
+msgstr ""
+
+#: widgets/cause-item.php:166 widgets/causes-grid.php:194
+#: widgets/causes-listing.php:253 widgets/causes-slider.php:374
+#: widgets/events-listing.php:206 widgets/events.php:259
+#: widgets/recent-posts.php:271
+msgid "Title Hover"
+msgstr ""
+
+#: widgets/cause-item.php:178 widgets/causes-grid.php:206
+#: widgets/causes-listing.php:234 widgets/content-slider.php:329
+#: widgets/donation-box.php:168 widgets/events-listing.php:187
+#: widgets/events.php:240 widgets/icon-box.php:325 widgets/linked-item.php:275
+#: widgets/price-item.php:293 widgets/recent-posts.php:252
+#: widgets/stories.php:195
+msgid "Title Typography"
+msgstr ""
+
+#: widgets/cause-item.php:186 widgets/causes-grid.php:214
+#: widgets/causes-listing.php:264 widgets/events-listing.php:168
+#: widgets/events.php:221 widgets/heading.php:249 widgets/linked-item.php:256
+#: widgets/price-item.php:272 widgets/recent-posts.php:233
+#: widgets/stories.php:214 widgets/testimonials.php:344
+msgid "Space After Title"
+msgstr ""
+
+#: widgets/cause-item.php:203 widgets/causes-grid.php:231
+#: widgets/causes-listing.php:291 widgets/causes-slider.php:385
+#: widgets/events-listing.php:227 widgets/events.php:318
+#: widgets/recent-posts.php:309 widgets/stories.php:241
+msgid "Excerpt Color"
+msgstr ""
+
+#: widgets/cause-item.php:216 widgets/causes-grid.php:244
+#: widgets/causes-listing.php:283 widgets/events-listing.php:219
+#: widgets/events.php:310 widgets/recent-posts.php:301 widgets/stories.php:233
+msgid "Excerpt Typography"
+msgstr ""
+
+#: widgets/cause-item.php:224 widgets/causes-grid.php:252
+msgid "Details Color"
+msgstr ""
+
+#: widgets/cause-item.php:237 widgets/causes-grid.php:265
+msgid "Details Typography"
+msgstr ""
+
+#: widgets/cause-item.php:245 widgets/causes-grid.php:273
+msgid "Space Before Details"
+msgstr ""
+
+#: widgets/cause-item.php:295 widgets/causes-grid.php:351
+#: widgets/causes-grid.php:389 widgets/content-slider.php:461
+#: widgets/featured-posts.php:104 widgets/gallery.php:104 widgets/image.php:28
+#: widgets/image.php:47 widgets/image.php:54 widgets/video.php:69
+msgid "Image"
+msgstr ""
+
+#: widgets/cause-item.php:311 widgets/causes-grid.php:369
+#: widgets/causes-grid.php:405
+msgid "Goal: "
+msgstr ""
+
+#: widgets/cause-item.php:319 widgets/causes-grid.php:377
+#: widgets/causes-grid.php:413
+msgid "Date: "
+msgstr ""
+
+#: widgets/causes-grid.php:29 widgets/causes-grid.php:52
+msgid "Causes Grid"
+msgstr ""
+
+#: widgets/causes-grid.php:96
+msgid "Content Part Background"
+msgstr ""
+
+#: widgets/causes-grid.php:118 widgets/content-slider.php:375
+msgid "Slides"
+msgstr ""
+
+#: widgets/causes-grid.php:133
+msgid "Causes Grid Settings"
+msgstr ""
+
+#: widgets/causes-listing.php:63 widgets/causes-slider.php:63
+#: widgets/content-slider.php:63 widgets/testimonials.php:63
+msgid "Type 1"
+msgstr ""
+
+#: widgets/causes-listing.php:64 widgets/causes-slider.php:64
+#: widgets/content-slider.php:64 widgets/testimonials.php:64
+msgid "Type 2"
+msgstr ""
+
+#: widgets/causes-listing.php:65 widgets/causes-slider.php:65
+#: widgets/content-slider.php:65 widgets/testimonials.php:65
+msgid "Type 3"
+msgstr ""
+
+#: widgets/causes-listing.php:66 widgets/causes-slider.php:66
+msgid "Type 4"
+msgstr ""
+
+#: widgets/causes-listing.php:84 widgets/tabs.php:253
+msgid "Columns"
+msgstr ""
+
+#: widgets/causes-listing.php:145 widgets/causes-slider.php:210
+msgid "Donate Popup Button Text"
+msgstr ""
+
+#: widgets/causes-listing.php:147 widgets/causes-slider.php:212
+#: widgets/donation-box.php:116
+msgid "+ Donate"
+msgstr ""
+
+#: widgets/causes-listing.php:148 widgets/causes-slider.php:213
+msgid "Enter Donate Popup Button Text"
+msgstr ""
+
+#: widgets/causes-listing.php:161
+msgid "Causes Listing Settings"
+msgstr ""
+
+#: widgets/causes-listing.php:169
+msgid "Spaces Between Items in Row"
+msgstr ""
+
+#: widgets/causes-listing.php:191
+msgid "Spaces Between Rows"
+msgstr ""
+
+#: widgets/causes-listing.php:209
+msgid "Items Background"
+msgstr ""
+
+#: widgets/causes-listing.php:220
+msgid "Items Border Radius"
+msgstr ""
+
+#: widgets/causes-listing.php:302 widgets/stories.php:252
+msgid "Space After Excerpt"
+msgstr ""
+
+#: widgets/causes-slider.php:29 widgets/causes-slider.php:52
+msgid "Causes Slider"
+msgstr ""
+
+#: widgets/causes-slider.php:74 widgets/content-slider.php:87
+msgid "Slider Height"
+msgstr ""
+
+#: widgets/causes-slider.php:98 widgets/causes-slider.php:101
+#: widgets/linked-item.php:66 widgets/linked-item.php:68
+msgid "Up Title"
+msgstr ""
+
+#: widgets/causes-slider.php:100
+msgid "Enter up title"
+msgstr ""
+
+#: widgets/causes-slider.php:109 widgets/content-slider.php:132
+msgid "Title Part One"
+msgstr ""
+
+#: widgets/causes-slider.php:111 widgets/content-slider.php:134
+msgid "Enter title part 1"
+msgstr ""
+
+#: widgets/causes-slider.php:112 widgets/content-slider.php:135
+#: widgets/heading.php:84 widgets/testimonials.php:87
+msgid "Part 1"
+msgstr ""
+
+#: widgets/causes-slider.php:119 widgets/content-slider.php:142
+msgid "Title Part Two"
+msgstr ""
+
+#: widgets/causes-slider.php:121 widgets/content-slider.php:144
+msgid "Enter title part 2"
+msgstr ""
+
+#: widgets/causes-slider.php:122 widgets/content-slider.php:145
+#: widgets/heading.php:97 widgets/testimonials.php:97
+msgid "Part 2"
+msgstr ""
+
+#: widgets/causes-slider.php:129
+msgid "Showed Items"
+msgstr ""
+
+#: widgets/causes-slider.php:133
+msgid "Showed Default Items"
+msgstr ""
+
+#: widgets/causes-slider.php:134
+msgid "Showed Custom Items"
+msgstr ""
+
+#: widgets/causes-slider.php:158
+msgid "Choose Items"
+msgstr ""
+
+#: widgets/causes-slider.php:225 widgets/content-slider.php:635
+#: widgets/testimonials.php:160
+msgid "Animation Speed"
+msgstr ""
+
+#: widgets/causes-slider.php:235 widgets/content-slider.php:645
+#: widgets/testimonials.php:170
+msgid "Infinite Loop"
+msgstr ""
+
+#: widgets/causes-slider.php:239 widgets/causes-slider.php:253
+#: widgets/causes-slider.php:279 widgets/content-slider.php:649
+#: widgets/content-slider.php:663 widgets/content-slider.php:689
+#: widgets/price-item.php:137 widgets/testimonials.php:174
+#: widgets/testimonials.php:188 widgets/testimonials.php:214
+msgid "Yes"
+msgstr ""
+
+#: widgets/causes-slider.php:240 widgets/causes-slider.php:254
+#: widgets/causes-slider.php:280 widgets/content-slider.php:650
+#: widgets/content-slider.php:664 widgets/content-slider.php:690
+#: widgets/price-item.php:136 widgets/testimonials.php:175
+#: widgets/testimonials.php:189 widgets/testimonials.php:215
+msgid "No"
+msgstr ""
+
+#: widgets/causes-slider.php:249 widgets/content-slider.php:659
+#: widgets/testimonials.php:184
+msgid "Autoplay"
+msgstr ""
+
+#: widgets/causes-slider.php:263 widgets/content-slider.php:673
+#: widgets/testimonials.php:198
+msgid "Autoplay Speed"
+msgstr ""
+
+#: widgets/causes-slider.php:275 widgets/content-slider.php:685
+#: widgets/testimonials.php:210
+msgid "Pause on Hover"
+msgstr ""
+
+#: widgets/causes-slider.php:291 widgets/content-slider.php:701
+#: widgets/testimonials.php:226
+msgid "Rtl Support"
+msgstr ""
+
+#: widgets/causes-slider.php:294 widgets/causes-slider.php:306
+#: widgets/content-slider.php:402 widgets/content-slider.php:439
+#: widgets/content-slider.php:491 widgets/content-slider.php:527
+#: widgets/content-slider.php:563 widgets/content-slider.php:704
+#: widgets/heading.php:155 widgets/icon-box.php:99 widgets/image.php:93
+#: widgets/person.php:101 widgets/testimonials.php:229
+msgid "Off"
+msgstr ""
+
+#: widgets/causes-slider.php:295 widgets/causes-slider.php:307
+#: widgets/content-slider.php:403 widgets/content-slider.php:440
+#: widgets/content-slider.php:492 widgets/content-slider.php:528
+#: widgets/content-slider.php:564 widgets/content-slider.php:705
+#: widgets/heading.php:156 widgets/icon-box.php:100 widgets/image.php:94
+#: widgets/person.php:102 widgets/testimonials.php:230
+msgid "On"
+msgstr ""
+
+#: widgets/causes-slider.php:303
+msgid "Fullwidth Mode"
+msgstr ""
+
+#: widgets/causes-slider.php:320
+msgid "Causes Slider Settings"
+msgstr ""
+
+#: widgets/causes-slider.php:328
+msgid "Causes Items Background Color"
+msgstr ""
+
+#: widgets/causes-slider.php:339
+msgid "Category Background Color"
+msgstr ""
+
+#: widgets/causes-slider.php:397
+msgid "Donation Details Color"
+msgstr ""
+
+#: widgets/causes-slider.php:432
+msgid "Button Border Color"
+msgstr ""
+
+#: widgets/causes-slider.php:443
+msgid "Button Hover Color"
+msgstr ""
+
+#: widgets/causes-slider.php:454
+msgid "Button Hover Background"
+msgstr ""
+
+#: widgets/causes-slider.php:465
+msgid "Button Hover Border Color"
+msgstr ""
+
+#: widgets/causes-slider.php:476
+msgid "Slider Navigation Color"
+msgstr ""
+
+#: widgets/causes-slider.php:488
+msgid "Slider Navigation Background"
+msgstr ""
+
+#: widgets/causes-slider.php:499
+msgid "Slider Navigation Border Color"
+msgstr ""
+
+#: widgets/causes-slider.php:510
+msgid "Slider Navigation Hover Color"
+msgstr ""
+
+#: widgets/causes-slider.php:521
+msgid "Slider Navigation Hover Background"
+msgstr ""
+
+#: widgets/causes-slider.php:532
+msgid "Slider Navigation Hover Border Color"
+msgstr ""
+
+#: widgets/causes-slider.php:543 widgets/linked-item.php:245
+#: widgets/testimonials.php:275
+msgid "Up Title Color"
+msgstr ""
+
+#: widgets/causes-slider.php:566 widgets/content-slider.php:364
+#: widgets/testimonials.php:333
+msgid "Title Part 2 Color"
+msgstr ""
+
+#: widgets/causes-slider.php:792
+msgid "Date:"
+msgstr ""
+
+#: widgets/content-slider.php:29 widgets/content-slider.php:52
+msgid "Content Slider"
+msgstr ""
+
+#: widgets/content-slider.php:73
+msgid "Content Width Type"
+msgstr ""
+
+#: widgets/content-slider.php:77
+msgid "Boxed"
+msgstr ""
+
+#: widgets/content-slider.php:78
+msgid "Fullwidth"
+msgstr ""
+
+#: widgets/content-slider.php:111
+msgid "Slide Name"
+msgstr ""
+
+#: widgets/content-slider.php:121
+msgid "Slide Image"
+msgstr ""
+
+#: widgets/content-slider.php:153
+msgid "Promo Text"
+msgstr ""
+
+#: widgets/content-slider.php:157
+msgid "Enter Promo Text"
+msgstr ""
+
+#: widgets/content-slider.php:188
+msgid "Content Container Max Width"
+msgstr ""
+
+#: widgets/content-slider.php:206
+msgid "Content Top Offset"
+msgstr ""
+
+#: widgets/content-slider.php:224
+msgid "Promo Text Padding"
+msgstr ""
+
+#: widgets/content-slider.php:237
+msgid "Content Container Alignment"
+msgstr ""
+
+#: widgets/content-slider.php:265
+msgid "Content Container Vertical Alignment"
+msgstr ""
+
+#: widgets/content-slider.php:293
+msgid "Content Container Text Align"
+msgstr ""
+
+#: widgets/content-slider.php:356 widgets/testimonials.php:325
+msgid "Title Part 2 Typography"
+msgstr ""
+
+#: widgets/content-slider.php:392
+msgid "Additional Fields"
+msgstr ""
+
+#: widgets/content-slider.php:399
+msgid "Content Slider Anchor"
+msgstr ""
+
+#: widgets/content-slider.php:410
+msgid "Enter Anchor Text"
+msgstr ""
+
+#: widgets/content-slider.php:412
+msgid "Scroll Down"
+msgstr ""
+
+#: widgets/content-slider.php:423
+msgid "Enter Anchor ID"
+msgstr ""
+
+#: widgets/content-slider.php:436 widgets/tabs.php:91 widgets/video.php:29
+#: widgets/video.php:52
+msgid "Video"
+msgstr ""
+
+#: widgets/content-slider.php:448 widgets/tabs.php:122 widgets/video.php:59
+msgid "Enter Video Link"
+msgstr ""
+
+#: widgets/content-slider.php:475 widgets/tabs.php:149 widgets/video.php:80
+msgid "Play Button Text"
+msgstr ""
+
+#: widgets/content-slider.php:477 widgets/tabs.php:151 widgets/video.php:82
+msgid "Enter Play Button Text"
+msgstr ""
+
+#: widgets/content-slider.php:478 widgets/tabs.php:152 widgets/video.php:83
+msgid "Watch Our Video"
+msgstr ""
+
+#: widgets/content-slider.php:488 widgets/content-slider.php:524
+msgid "Additional Info Block"
+msgstr ""
+
+#: widgets/content-slider.php:500 widgets/content-slider.php:536
+msgid "Additional Info Title"
+msgstr ""
+
+#: widgets/content-slider.php:512 widgets/content-slider.php:548
+msgid "Additional Info Content"
+msgstr ""
+
+#: widgets/content-slider.php:560 widgets/icon-box.php:138
+#: widgets/icon-box.php:190 widgets/person.php:156
+msgid "Social Icons"
+msgstr ""
+
+#: widgets/content-slider.php:572
+msgid "Socials Title"
+msgstr ""
+
+#: widgets/content-slider.php:585
+msgid "Add Social Icons"
+msgstr ""
+
+#: widgets/content-slider.php:591 widgets/icon-box.php:68
+#: widgets/icon-box.php:162 widgets/person.php:128
+msgid "Icon"
+msgstr ""
+
+#: widgets/content-slider.php:603 widgets/icon-box.php:176
+#: widgets/linked-item.php:110 widgets/person.php:142
+#: widgets/price-item.php:176
+msgid "Link"
+msgstr ""
+
+#: widgets/content-slider.php:628 widgets/testimonials.php:153
+msgid "Slider Settings"
+msgstr ""
+
+#: widgets/content-slider.php:718 widgets/price-item.php:264
+msgid "Content Settings"
+msgstr ""
+
+#: widgets/content-slider.php:727
+msgid "Promo Text Typography"
+msgstr ""
+
+#: widgets/content-slider.php:735
+msgid "Promo Text Color"
+msgstr ""
+
+#: widgets/content-slider.php:746
+msgid "Space Before Promo Text"
+msgstr ""
+
+#: widgets/content-slider.php:826 widgets/testimonials.php:374
+msgid "Slider Buttons Color"
+msgstr ""
+
+#: widgets/content-slider.php:838 widgets/testimonials.php:385
+msgid "Slider Buttons Background"
+msgstr ""
+
+#: widgets/content-slider.php:849 widgets/testimonials.php:396
+msgid "Slider Buttons Border Color"
+msgstr ""
+
+#: widgets/content-slider.php:913 widgets/testimonials.php:419
+msgid "Slider Buttons Hover"
+msgstr ""
+
+#: widgets/content-slider.php:925 widgets/testimonials.php:430
+msgid "Slider Buttons Hover Background"
+msgstr ""
+
+#: widgets/content-slider.php:936 widgets/testimonials.php:441
+msgid "Slider Buttons Border Hover"
+msgstr ""
+
+#: widgets/content-slider.php:951 widgets/price-item.php:463
+msgid "Space Before Button"
+msgstr ""
+
+#: widgets/content-slider.php:998
+msgid "Additional Fields Settings"
+msgstr ""
+
+#: widgets/content-slider.php:1006
+msgid "Additional Fields Height"
+msgstr ""
+
+#: widgets/content-slider.php:1023
+msgid "Additional Fields Container Background"
+msgstr ""
+
+#: widgets/content-slider.php:1035
+msgid "Slider Anchor Color"
+msgstr ""
+
+#: widgets/content-slider.php:1050
+msgid "Slider Anchor Hover"
+msgstr ""
+
+#: widgets/content-slider.php:1065
+msgid "Slider Anchor Typography"
+msgstr ""
+
+#: widgets/content-slider.php:1077
+msgid "Video Overlay Color"
+msgstr ""
+
+#: widgets/content-slider.php:1092
+msgid "Play Button Text Color"
+msgstr ""
+
+#: widgets/content-slider.php:1106
+msgid "Play Button Text Hover"
+msgstr ""
+
+#: widgets/content-slider.php:1120
+msgid "Play Button Color"
+msgstr ""
+
+#: widgets/content-slider.php:1134
+msgid "Play Button Hover"
+msgstr ""
+
+#: widgets/content-slider.php:1148
+msgid "Play Button Background"
+msgstr ""
+
+#: widgets/content-slider.php:1162
+msgid "Play Button Background Hover"
+msgstr ""
+
+#: widgets/content-slider.php:1177
+msgid "Info Titles Color"
+msgstr ""
+
+#: widgets/content-slider.php:1190
+msgid "Info Titles Typography"
+msgstr ""
+
+#: widgets/content-slider.php:1198
+msgid "Info Color"
+msgstr ""
+
+#: widgets/content-slider.php:1209
+msgid "Info Hover"
+msgstr ""
+
+#: widgets/content-slider.php:1221
+msgid "Info Typography"
+msgstr ""
+
+#: widgets/content-slider.php:1230 widgets/person.php:311
+msgid "Socials Color"
+msgstr ""
+
+#: widgets/content-slider.php:1245 widgets/person.php:323
+msgid "Socials Hover"
+msgstr ""
+
+#: widgets/content-slider.php:1259
+msgid "Spaces Between Social Icons"
+msgstr ""
+
+#: widgets/content-slider.php:1475 widgets/content-slider.php:1547
+#: widgets/content-slider.php:1576
+msgid "Background"
+msgstr ""
+
+#: widgets/donation-box.php:29 widgets/donation-box.php:52
+msgid "Donation Box"
+msgstr ""
+
+#: widgets/donation-box.php:62 widgets/linked-item.php:79
+msgid "Enter Title"
+msgstr ""
+
+#: widgets/donation-box.php:69
+msgid "Featured Image"
+msgstr ""
+
+#: widgets/donation-box.php:81
+msgid "Current Donation Amount Title"
+msgstr ""
+
+#: widgets/donation-box.php:83
+msgid "Donation So Far:"
+msgstr ""
+
+#: widgets/donation-box.php:84
+msgid "Enter Current Donation Amount Title"
+msgstr ""
+
+#: widgets/donation-box.php:92
+msgid "Current Donation Amount"
+msgstr ""
+
+#: widgets/donation-box.php:95
+msgid "Enter Current Donation Amount"
+msgstr ""
+
+#: widgets/donation-box.php:103
+msgid "Donation Shortcode"
+msgstr ""
+
+#: widgets/donation-box.php:106
+msgid "Enter Donation Shortcode"
+msgstr ""
+
+#: widgets/donation-box.php:114 widgets/donation.php:62
+msgid "Donation Button Text"
+msgstr ""
+
+#: widgets/donation-box.php:117
+msgid "Enter Donation Button Text"
+msgstr ""
+
+#: widgets/donation-box.php:130
+msgid "Donation Box Settings"
+msgstr ""
+
+#: widgets/donation-box.php:138
+msgid "Info Container Background"
+msgstr ""
+
+#: widgets/donation-box.php:150
+msgid "Space Between Image and Description Part"
+msgstr ""
+
+#: widgets/donation-box.php:189
+msgid "Amount Typography"
+msgstr ""
+
+#: widgets/donation-box.php:197
+msgid "Amount Title Color"
+msgstr ""
+
+#: widgets/donation-box.php:208
+msgid "Amount Color"
+msgstr ""
+
+#: widgets/donation-box.php:224
+msgid "Donate Button Settings"
+msgstr ""
+
+#: widgets/donation.php:15
+msgid "Donation Widget by Helpo Theme"
+msgstr ""
+
+#: widgets/donation.php:36
+msgid "Donate"
+msgstr ""
+
+#: widgets/donation.php:54 widgets/linked-item.php:86
+#: widgets/price-item.php:152
+msgid "Description"
+msgstr ""
+
+#: widgets/events-listing.php:29 widgets/events-listing.php:47
+msgid "Events Listing"
+msgstr ""
+
+#: widgets/events-listing.php:112
+msgid "Events Listing Settings"
+msgstr ""
+
+#: widgets/events-listing.php:120 widgets/events.php:157
+#: widgets/recent-posts.php:140
+msgid "Spaces After Items"
+msgstr ""
+
+#: widgets/events-listing.php:137 widgets/events.php:174
+#: widgets/recent-posts.php:157
+msgid "Item Padding"
+msgstr ""
+
+#: widgets/events-listing.php:149 widgets/events.php:186
+#: widgets/recent-posts.php:169
+msgid "Item Background"
+msgstr ""
+
+#: widgets/events-listing.php:238
+msgid "Spaces Before Info Fields"
+msgstr ""
+
+#: widgets/events-listing.php:256 widgets/events.php:270
+msgid "Spaces Between Info Fields"
+msgstr ""
+
+#: widgets/events-listing.php:274 widgets/events.php:289
+#: widgets/info-box.php:240
+msgid "Info Fields Typography"
+msgstr ""
+
+#: widgets/events-listing.php:282 widgets/events.php:297
+#: widgets/info-box.php:248
+msgid "Info Fields Color"
+msgstr ""
+
+#: widgets/events-listing.php:293
+msgid "Date Part Color"
+msgstr ""
+
+#: widgets/events-listing.php:305
+msgid "Date Part Background"
+msgstr ""
+
+#: widgets/events-listing.php:316
+msgid "Date Part Padding"
+msgstr ""
+
+#: widgets/events.php:29 widgets/events.php:47
+msgid "Events"
+msgstr ""
+
+#: widgets/events.php:83
+msgid "Choose Event Items"
+msgstr ""
+
+#: widgets/events.php:128
+msgid "Events Settings"
+msgstr ""
+
+#: widgets/events.php:136 widgets/recent-posts.php:122 widgets/tabs.php:267
+msgid "Spaces Between Items"
+msgstr ""
+
+#: widgets/events.php:205 widgets/recent-posts.php:188
+msgid "Content Part Padding"
+msgstr ""
+
+#: widgets/featured-posts.php:15
+msgid "Featured Posts Widget by Helpo Theme"
+msgstr ""
+
+#: widgets/featured-posts.php:53
+msgid "Number of Posts"
+msgstr ""
+
+#: widgets/gallery.php:29 widgets/gallery.php:51 widgets/tabs.php:90
+msgid "Gallery"
+msgstr ""
+
+#: widgets/gallery.php:58 widgets/tabs.php:110
+msgid "Add Images"
+msgstr ""
+
+#: widgets/heading.php:29 widgets/heading.php:48 widgets/heading.php:68
+msgid "Heading"
+msgstr ""
+
+#: widgets/heading.php:55
+msgid "Heading View Type"
+msgstr ""
+
+#: widgets/heading.php:70
+msgid "Enter your heading"
+msgstr ""
+
+#: widgets/heading.php:71
+msgid "This is heading element"
+msgstr ""
+
+#: widgets/heading.php:81
+msgid "Heading Part One"
+msgstr ""
+
+#: widgets/heading.php:83
+msgid "Enter heading part 1"
+msgstr ""
+
+#: widgets/heading.php:94
+msgid "Heading Part Two"
+msgstr ""
+
+#: widgets/heading.php:96
+msgid "Enter heading part 2"
+msgstr ""
+
+#: widgets/heading.php:107
+msgid "HTML Tag"
+msgstr ""
+
+#: widgets/heading.php:110
+msgid "H1"
+msgstr ""
+
+#: widgets/heading.php:111
+msgid "H2"
+msgstr ""
+
+#: widgets/heading.php:112
+msgid "H3"
+msgstr ""
+
+#: widgets/heading.php:113
+msgid "H4"
+msgstr ""
+
+#: widgets/heading.php:114
+msgid "H5"
+msgstr ""
+
+#: widgets/heading.php:115
+msgid "H6"
+msgstr ""
+
+#: widgets/heading.php:116
+msgid "div"
+msgstr ""
+
+#: widgets/heading.php:117
+msgid "span"
+msgstr ""
+
+#: widgets/heading.php:118
+msgid "p"
+msgstr ""
+
+#: widgets/heading.php:127 widgets/heading.php:178
+msgid "Heading Alignment"
+msgstr ""
+
+#: widgets/heading.php:153 widgets/heading.php:168
+msgid "Up Heading"
+msgstr ""
+
+#: widgets/heading.php:165
+msgid "Enter Up Heading"
+msgstr ""
+
+#: widgets/heading.php:167
+msgid "Enter up heading"
+msgstr ""
+
+#: widgets/heading.php:212
+msgid "Heading Settings"
+msgstr ""
+
+#: widgets/heading.php:221
+msgid "Heading Typography"
+msgstr ""
+
+#: widgets/heading.php:230
+msgid "Heading Text Shadow"
+msgstr ""
+
+#: widgets/heading.php:238
+msgid "Heading Color"
+msgstr ""
+
+#: widgets/heading.php:268
+msgid "Up Heading Typography"
+msgstr ""
+
+#: widgets/heading.php:279
+msgid "Up Heading Color"
+msgstr ""
+
+#: widgets/heading.php:293 widgets/linked-item.php:218
+#: widgets/testimonials.php:286
+msgid "Space After Up Title"
+msgstr ""
+
+#: widgets/icon-box.php:29 widgets/icon-box.php:48
+msgid "Icon Box"
+msgstr ""
+
+#: widgets/icon-box.php:55
+msgid "Type of Icon"
+msgstr ""
+
+#: widgets/icon-box.php:59
+msgid "Default Icon"
+msgstr ""
+
+#: widgets/icon-box.php:60 widgets/icon-box.php:84
+msgid "SVG Icon"
+msgstr ""
+
+#: widgets/icon-box.php:85
+msgid "Enter svg code"
+msgstr ""
+
+#: widgets/icon-box.php:97 widgets/icon-box.php:450 widgets/image.php:91
+#: widgets/linked-item.php:55 widgets/linked-item.php:523 widgets/person.php:99
+msgid "Background Image"
+msgstr ""
+
+#: widgets/icon-box.php:109 widgets/image.php:103 widgets/person.php:114
+msgid "Choose Background Image"
+msgstr ""
+
+#: widgets/icon-box.php:121
+msgid "Icon Box Title"
+msgstr ""
+
+#: widgets/icon-box.php:124
+msgid "Enter Icon Box Title"
+msgstr ""
+
+#: widgets/icon-box.php:132
+msgid "Type of Icon Box Information"
+msgstr ""
+
+#: widgets/icon-box.php:137
+msgid "Custom Information"
+msgstr ""
+
+#: widgets/icon-box.php:147
+msgid "Icon Box Information"
+msgstr ""
+
+#: widgets/icon-box.php:150
+msgid "Enter Your Custom Information"
+msgstr ""
+
+#: widgets/icon-box.php:205
+msgid "Icon Box Alignment"
+msgstr ""
+
+#: widgets/icon-box.php:237
+msgid "Icon Box Settings"
+msgstr ""
+
+#: widgets/icon-box.php:245 widgets/tabs.php:369 widgets/video.php:151
+msgid "Icon Size"
+msgstr ""
+
+#: widgets/icon-box.php:263 widgets/tabs.php:407 widgets/video.php:189
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/icon-box.php:274
+msgid "Background Image Size"
+msgstr ""
+
+#: widgets/icon-box.php:288 widgets/image.php:130
+msgid "Background Image Position"
+msgstr ""
+
+#: widgets/icon-box.php:292 widgets/image.php:134
+msgid "Top Left"
+msgstr ""
+
+#: widgets/icon-box.php:293 widgets/image.php:135
+msgid "Top Center"
+msgstr ""
+
+#: widgets/icon-box.php:294 widgets/image.php:136
+msgid "Top Right"
+msgstr ""
+
+#: widgets/icon-box.php:295 widgets/image.php:137
+msgid "Center Left"
+msgstr ""
+
+#: widgets/icon-box.php:296 widgets/image.php:138
+msgid "Center Center"
+msgstr ""
+
+#: widgets/icon-box.php:297 widgets/image.php:139
+msgid "Center Right"
+msgstr ""
+
+#: widgets/icon-box.php:298 widgets/image.php:140
+msgid "Bottom Left"
+msgstr ""
+
+#: widgets/icon-box.php:299 widgets/image.php:141
+msgid "Bottom Center"
+msgstr ""
+
+#: widgets/icon-box.php:300 widgets/image.php:142
+msgid "Bottom Right"
+msgstr ""
+
+#: widgets/icon-box.php:333
+msgid "Space Between Icon and Title"
+msgstr ""
+
+#: widgets/icon-box.php:350
+msgid "Information Color"
+msgstr ""
+
+#: widgets/icon-box.php:363
+msgid "Information Typography"
+msgstr ""
+
+#: widgets/icon-box.php:374
+msgid "Social Icons Size"
+msgstr ""
+
+#: widgets/icon-box.php:394
+msgid "Space Between Title and Information Block"
+msgstr ""
+
+#: widgets/image.php:122
+msgid "Image Settings"
+msgstr ""
+
+#: widgets/info-box.php:29 widgets/info-box.php:48
+msgid "Info Box"
+msgstr ""
+
+#: widgets/info-box.php:55
+msgid "Info Box Title"
+msgstr ""
+
+#: widgets/info-box.php:58
+msgid "Enter Info Box Title"
+msgstr ""
+
+#: widgets/info-box.php:67
+msgid "Field Title"
+msgstr ""
+
+#: widgets/info-box.php:70
+msgid "Enter Field Title"
+msgstr ""
+
+#: widgets/info-box.php:77
+msgid "Field Content"
+msgstr ""
+
+#: widgets/info-box.php:80
+msgid "Enter Your Information"
+msgstr ""
+
+#: widgets/info-box.php:87
+msgid "Fields"
+msgstr ""
+
+#: widgets/info-box.php:100 widgets/linked-item.php:136
+msgid "Info Box Alignment"
+msgstr ""
+
+#: widgets/info-box.php:132
+msgid "Info Box Settings"
+msgstr ""
+
+#: widgets/info-box.php:140
+msgid "Info Box Padding"
+msgstr ""
+
+#: widgets/info-box.php:152
+msgid "Info Box Border Radius"
+msgstr ""
+
+#: widgets/info-box.php:164
+msgid "Info Box Background"
+msgstr ""
+
+#: widgets/info-box.php:183
+msgid "Space After Info Box Title"
+msgstr ""
+
+#: widgets/info-box.php:202
+msgid "Info Box Title Typography"
+msgstr ""
+
+#: widgets/info-box.php:210
+msgid "Info Box Title Color"
+msgstr ""
+
+#: widgets/info-box.php:221
+msgid "Space After Info Fields"
+msgstr ""
+
+#: widgets/info-box.php:259
+msgid "Space After Info Field Title"
+msgstr ""
+
+#: widgets/info-box.php:278
+msgid "Info Field Title Typography"
+msgstr ""
+
+#: widgets/info-box.php:286
+msgid "Info Field Title Color"
+msgstr ""
+
+#: widgets/linked-item.php:29 widgets/linked-item.php:48
+msgid "Linked Item"
+msgstr ""
+
+#: widgets/linked-item.php:69
+msgid "Enter Up Title"
+msgstr ""
+
+#: widgets/linked-item.php:89
+msgid "Enter Your Text"
+msgstr ""
+
+#: widgets/linked-item.php:96
+msgid "Link Type"
+msgstr ""
+
+#: widgets/linked-item.php:100
+msgid "Linked All Item"
+msgstr ""
+
+#: widgets/linked-item.php:101
+msgid "Linked Button"
+msgstr ""
+
+#: widgets/linked-item.php:168
+msgid "Linked Item Settings"
+msgstr ""
+
+#: widgets/linked-item.php:176
+msgid "Linked Item Padding"
+msgstr ""
+
+#: widgets/linked-item.php:188 widgets/tabs.php:297 widgets/tabs.php:321
+#: widgets/video.php:103
+msgid "Overlay Color"
+msgstr ""
+
+#: widgets/linked-item.php:237 widgets/testimonials.php:267
+msgid "Up Title Typography"
+msgstr ""
+
+#: widgets/linked-item.php:294
+msgid "Space After Description"
+msgstr ""
+
+#: widgets/linked-item.php:313 widgets/price-item.php:425
+msgid "Description Typography"
+msgstr ""
+
+#: widgets/linked-item.php:321
+msgid "Description Color"
+msgstr ""
+
+#: widgets/person.php:29 widgets/person.php:48
+msgid "Person"
+msgstr ""
+
+#: widgets/person.php:61
+msgid "View Type 3"
+msgstr ""
+
+#: widgets/person.php:70
+msgid "Person Name"
+msgstr ""
+
+#: widgets/person.php:79
+msgid "Person Position"
+msgstr ""
+
+#: widgets/person.php:88
+msgid "Person Image"
+msgstr ""
+
+#: widgets/person.php:174
+msgid "Person Settings"
+msgstr ""
+
+#: widgets/person.php:182
+msgid "Person Image Size"
+msgstr ""
+
+#: widgets/person.php:196
+msgid "Person Overlay Color"
+msgstr ""
+
+#: widgets/person.php:212
+msgid "Person Item Background"
+msgstr ""
+
+#: widgets/person.php:227
+msgid "Person Item Background Hover"
+msgstr ""
+
+#: widgets/person.php:244
+msgid "Person Name Typography"
+msgstr ""
+
+#: widgets/person.php:252
+msgid "Person Name Color"
+msgstr ""
+
+#: widgets/person.php:264
+msgid "Person Name Hover"
+msgstr ""
+
+#: widgets/person.php:278
+msgid "Person Position Typography"
+msgstr ""
+
+#: widgets/person.php:286
+msgid "Person Position Color"
+msgstr ""
+
+#: widgets/person.php:298
+msgid "Person Position Hover"
+msgstr ""
+
+#: widgets/person.php:394 widgets/person.php:435
+msgid "Person Background Image"
+msgstr ""
+
+#: widgets/price-item.php:29 widgets/price-item.php:48
+msgid "Price Item"
+msgstr ""
+
+#: widgets/price-item.php:59 widgets/tabs.php:64
+msgid "Vertical"
+msgstr ""
+
+#: widgets/price-item.php:60 widgets/tabs.php:63
+msgid "Horizontal"
+msgstr ""
+
+#: widgets/price-item.php:78
+msgid "Currency"
+msgstr ""
+
+#: widgets/price-item.php:88
+msgid "Currency Position"
+msgstr ""
+
+#: widgets/price-item.php:92
+msgid "Before Price"
+msgstr ""
+
+#: widgets/price-item.php:93
+msgid "After Price"
+msgstr ""
+
+#: widgets/price-item.php:101
+msgid "Price"
+msgstr ""
+
+#: widgets/price-item.php:110
+msgid "Period"
+msgstr ""
+
+#: widgets/price-item.php:112
+msgid "month"
+msgstr ""
+
+#: widgets/price-item.php:119
+msgid "Custom Fields"
+msgstr ""
+
+#: widgets/price-item.php:125 widgets/tabs.php:89
+msgid "Text"
+msgstr ""
+
+#: widgets/price-item.php:129
+msgid "Enter Text"
+msgstr ""
+
+#: widgets/price-item.php:134
+msgid "Active Field"
+msgstr ""
+
+#: widgets/price-item.php:167
+msgid "Get Started"
+msgstr ""
+
+#: widgets/price-item.php:193
+msgid "Price Item Settings"
+msgstr ""
+
+#: widgets/price-item.php:201
+msgid "Price Item Padding"
+msgstr ""
+
+#: widgets/price-item.php:213
+msgid "Price Item Background"
+msgstr ""
+
+#: widgets/price-item.php:225
+msgid "Price Item Border Radius"
+msgstr ""
+
+#: widgets/price-item.php:239
+msgid "Price Item Border"
+msgstr ""
+
+#: widgets/price-item.php:313
+msgid "Space After Price"
+msgstr ""
+
+#: widgets/price-item.php:334
+msgid "Price Typography"
+msgstr ""
+
+#: widgets/price-item.php:343
+msgid "Period Typography"
+msgstr ""
+
+#: widgets/price-item.php:351
+msgid "Price Color"
+msgstr ""
+
+#: widgets/price-item.php:363
+msgid "Space Between Custom Fields"
+msgstr ""
+
+#: widgets/price-item.php:384
+msgid "Custom Fields Typography"
+msgstr ""
+
+#: widgets/price-item.php:395
+msgid "Custom Fields Color"
+msgstr ""
+
+#: widgets/price-item.php:409
+msgid "Active Fields Color"
+msgstr ""
+
+#: widgets/price-item.php:436
+msgid "description Color"
+msgstr ""
+
+#: widgets/recent-posts.php:29 widgets/recent-posts.php:47
+msgid "Recent Posts"
+msgstr ""
+
+#: widgets/recent-posts.php:114
+msgid "Recent Posts Settings"
+msgstr ""
+
+#: widgets/recent-posts.php:225
+msgid "Category Typography"
+msgstr ""
+
+#: widgets/recent-posts.php:282
+msgid "Spaces After Excerpt"
+msgstr ""
+
+#: widgets/recent-posts.php:322
+msgid "Post Meta Typography"
+msgstr ""
+
+#: widgets/recent-posts.php:330
+msgid "Post Meta Color"
+msgstr ""
+
+#: widgets/socials.php:15
+msgid "Display Your Logo and Social Icons from Customizer"
+msgstr ""
+
+#: widgets/socials.php:38
+msgid "Socials"
+msgstr ""
+
+#: widgets/socials.php:62
+msgid "Logo Image"
+msgstr ""
+
+#: widgets/socials.php:66
+msgid "Enabled"
+msgstr ""
+
+#: widgets/socials.php:67
+msgid "Disabled"
+msgstr ""
+
+#: widgets/socials.php:71
+msgid "Type of Logo Image"
+msgstr ""
+
+#: widgets/socials.php:75
+msgid "Default Logo Image"
+msgstr ""
+
+#: widgets/socials.php:76
+msgid "Transparent Header Logo Image"
+msgstr ""
+
+#: widgets/socials.php:80
+msgid "Enter Logo Image Width"
+msgstr ""
+
+#: widgets/socials.php:90
+msgid "Enter Logo Image Height"
+msgstr ""
+
+#: widgets/stories.php:29 widgets/stories.php:47
+msgid "Stories"
+msgstr ""
+
+#: widgets/stories.php:93
+msgid "Titles Type"
+msgstr ""
+
+#: widgets/stories.php:97
+msgid "Default Title"
+msgstr ""
+
+#: widgets/stories.php:98
+msgid "Alternative Title"
+msgstr ""
+
+#: widgets/stories.php:109
+msgid "Read Story"
+msgstr ""
+
+#: widgets/stories.php:136
+msgid "Stories Settings"
+msgstr ""
+
+#: widgets/stories.php:144
+msgid "Layout Images"
+msgstr ""
+
+#: widgets/stories.php:157
+msgid "Story Counter Typography"
+msgstr ""
+
+#: widgets/stories.php:165
+msgid "Story Counter Color"
+msgstr ""
+
+#: widgets/stories.php:176
+msgid "Space After Story Counter"
+msgstr ""
+
+#: widgets/stories.php:505
+msgid "Image Layout"
+msgstr ""
+
+#: widgets/tabs.php:29 widgets/tabs.php:52 widgets/tabs.php:162
+msgid "Tabs"
+msgstr ""
+
+#: widgets/tabs.php:75
+msgid "Tab Title"
+msgstr ""
+
+#: widgets/tabs.php:77
+msgid "Tab"
+msgstr ""
+
+#: widgets/tabs.php:78
+msgid "Enter Tab Title"
+msgstr ""
+
+#: widgets/tabs.php:85
+msgid "Content Type"
+msgstr ""
+
+#: widgets/tabs.php:99
+msgid "Tab Content"
+msgstr ""
+
+#: widgets/tabs.php:135
+msgid "Preview Image"
+msgstr ""
+
+#: widgets/tabs.php:179
+msgid "Text Settings"
+msgstr ""
+
+#: widgets/tabs.php:187
+msgid "Tab Title Color"
+msgstr ""
+
+#: widgets/tabs.php:198
+msgid "Active Tab Title Color"
+msgstr ""
+
+#: widgets/tabs.php:209
+msgid "Active Tab Marker Color"
+msgstr ""
+
+#: widgets/tabs.php:221
+msgid "Text Typography"
+msgstr ""
+
+#: widgets/tabs.php:229
+msgid "Text Color"
+msgstr ""
+
+#: widgets/tabs.php:245
+msgid "Gallery Settings"
+msgstr ""
+
+#: widgets/tabs.php:285
+msgid "Images Border Radius"
+msgstr ""
+
+#: widgets/tabs.php:313
+msgid "Video Settings"
+msgstr ""
+
+#: widgets/tabs.php:350 widgets/video.php:132
+msgid "Trigger Button Size"
+msgstr ""
+
+#: widgets/tabs.php:387 widgets/video.php:169
+msgid "Button Text Typography"
+msgstr ""
+
+#: widgets/tabs.php:418 widgets/video.php:200
+msgid "Icon Background"
+msgstr ""
+
+#: widgets/tabs.php:429 widgets/video.php:211
+msgid "Button Text Color"
+msgstr ""
+
+#: widgets/tabs.php:452 widgets/video.php:234
+msgid "Icon Hover"
+msgstr ""
+
+#: widgets/tabs.php:463 widgets/video.php:245
+msgid "Icon Background Hover"
+msgstr ""
+
+#: widgets/tabs.php:474 widgets/video.php:256
+msgid "Button Text Hover"
+msgstr ""
+
+#: widgets/tabs.php:546
+msgid "Video Preview Image"
+msgstr ""
+
+#: widgets/testimonials.php:29 widgets/testimonials.php:52
+#: widgets/testimonials.php:136
+msgid "Testimonials"
+msgstr ""
+
+#: widgets/testimonials.php:73
+msgid "Testimonials Up Title"
+msgstr ""
+
+#: widgets/testimonials.php:75
+msgid "Enter Testimonials Up Title"
+msgstr ""
+
+#: widgets/testimonials.php:84
+msgid "Testimonials Title Part One"
+msgstr ""
+
+#: widgets/testimonials.php:86
+msgid "Enter testimonials title part 1"
+msgstr ""
+
+#: widgets/testimonials.php:94
+msgid "Testimonials Title Part Two"
+msgstr ""
+
+#: widgets/testimonials.php:96
+msgid "Enter testimonials title part 2"
+msgstr ""
+
+#: widgets/testimonials.php:106
+msgid "Testimonial"
+msgstr ""
+
+#: widgets/testimonials.php:110
+msgid "Enter Testimonial Text"
+msgstr ""
+
+#: widgets/testimonials.php:118
+msgid "Author Name"
+msgstr ""
+
+#: widgets/testimonials.php:127
+msgid "Author Position"
+msgstr ""
+
+#: widgets/testimonials.php:243
+msgid "Testimonials Settings"
+msgstr ""
+
+#: widgets/testimonials.php:251
+msgid "Testimonials Background Color"
+msgstr ""
+
+#: widgets/testimonials.php:305
+msgid "Title Part 1 Typography"
+msgstr ""
+
+#: widgets/testimonials.php:313
+msgid "Title Part 1 Color"
+msgstr ""
+
+#: widgets/testimonials.php:456
+msgid "Markers Color"
+msgstr ""
+
+#: widgets/testimonials.php:469
+msgid "Space After Testimonial"
+msgstr ""
+
+#: widgets/testimonials.php:488
+msgid "Testimonial Typography"
+msgstr ""
+
+#: widgets/testimonials.php:496
+msgid "Testimonial Color"
+msgstr ""
+
+#: widgets/testimonials.php:509
+msgid "Author Typography"
+msgstr ""
+
+#: widgets/testimonials.php:517
+msgid "Author Color"
+msgstr ""
+
+#: widgets/video.php:95
+msgid "Video Widget Settings"
+msgstr ""

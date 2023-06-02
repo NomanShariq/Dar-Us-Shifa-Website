@@ -1,0 +1,1 @@
+!function(n,e){"use strict";var o=function(e,n){var o=e.find(".bdt-logo-carousel-wrapper");o.length&&o.find("> .bdt-tippy-tooltip").each(function(n){tippy(this,{appendTo:e[0]})})};jQuery(window).on("elementor/frontend/init",function(){elementorFrontend.hooks.addAction("frontend/element_ready/bdt-logo-carousel.default",o)})}(jQuery,window.elementorFrontend);

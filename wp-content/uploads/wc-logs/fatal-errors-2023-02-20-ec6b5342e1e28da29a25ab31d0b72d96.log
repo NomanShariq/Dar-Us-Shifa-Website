@@ -1,0 +1,4 @@
+2023-02-20T10:45:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\widgets\divider.php on line 4
+
+2023-02-20T10:46:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\bdthemes-element-pack\modules\circle-menu\widgets\circle-menu.php on line 11
+

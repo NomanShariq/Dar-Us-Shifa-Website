@@ -1,0 +1,1 @@
+!function(n,e){"use strict";var t=function(e,n){var t=e.find(".bdt-helpdesk"),d=t.find(".bdt-helpdesk-icons");t.length&&d.find("> .bdt-tippy-tooltip").each(function(n){tippy(this,{appendTo:e[0]})})};jQuery(window).on("elementor/frontend/init",function(){elementorFrontend.hooks.addAction("frontend/element_ready/bdt-helpdesk.default",t)})}(jQuery,window.elementorFrontend);

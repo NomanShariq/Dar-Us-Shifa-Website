@@ -1,0 +1,1 @@
+!function(n,e){"use strict";var t=function(e,n){var t=e.find(".bdt-marker-wrapper");t.length&&t.find("> .bdt-tippy-tooltip").each(function(n){tippy(this,{appendTo:e[0]})})};jQuery(window).on("elementor/frontend/init",function(){elementorFrontend.hooks.addAction("frontend/element_ready/bdt-marker.default",t)})}(jQuery,window.elementorFrontend);

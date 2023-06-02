@@ -1,0 +1,86 @@
+.widget-content .helpo_widget label {
+    display: block;
+    margin: 10px 0 3px;
+}
+
+#image-post-format-settings {
+    display: none;
+}
+
+.widget-content .helpo_widget label {
+    margin-top: 10px;
+    margin-bottom: 3px;
+    display: block;
+}
+
+.widget-content label:first-child {
+    margin-top: 0;
+}
+
+.helpo_50_dib {
+    float: left;
+    width: 50%;
+}
+
+.helpo_text_table_row, .helpo_text_table_add_row {
+    clear: both;
+}
+
+.helpo_text_table_row {
+    margin-top: 15px;
+    overflow: hidden;
+    position: relative;
+    padding: 13px 15px;
+    border: 1px solid #e5e5e5;
+    background: #ffffff;
+}
+
+.helpo_text_table_row:first-child {
+    margin-top: 0;
+}
+
+.helpo_text_table_add_row {
+    margin-top: 20px !important;
+    margin-bottom: 15px !important;
+}
+
+.helpo_text_table_rows {
+    overflow: hidden;
+}
+
+.helpo_text_table_row .helpo_50_dib:first-child input {
+    width: 95%;
+}
+
+.helpo_text_table_row textarea {
+    height: 100px;
+}
+
+.helpo_dn {
+    display: none;
+}
+
+.helpo_text_table_row_remove, .helpo_text_table_row_move {
+    position: absolute;
+    bottom: 17px;
+    cursor: pointer;
+    font-size: 17px;
+    color: #008ec2;
+    transition: 0.2s all;
+}
+
+.helpo_text_table_row_remove {
+    left: 17px;
+}
+
+.helpo_text_table_row_move {
+    left: 45px;
+}
+
+.helpo_text_table_row_remove:hover, .helpo_text_table_row_move:hover {
+    color: #000;
+}
+
+.postbox-container .rwmb-meta-box {
+    margin-top: 20px;
+}

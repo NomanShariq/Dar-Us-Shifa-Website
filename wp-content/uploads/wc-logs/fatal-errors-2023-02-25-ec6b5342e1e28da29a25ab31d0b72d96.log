@@ -1,0 +1,12 @@
+2023-02-25T11:08:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\darusshifa\wp-content\plugins\elementskit-lite\widgets\team\team.php on line 7
+
+2023-02-25T11:10:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\class-wp-theme.php on line 1248
+
+2023-02-25T11:11:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\bdthemes-element-pack\modules\post-card\widgets\post-card.php on line 18
+
+2023-02-25T11:11:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\bdthemes-element-pack\modules\post-slider\widgets\post-slider.php on line 17
+
+2023-02-25T11:12:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\bdthemes-element-pack\modules\profile-card\widgets\profile-card.php on line 16
+
+2023-02-25T11:12:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\bdthemes-element-pack\modules\total-count\widgets\total-count.php on line 16
+

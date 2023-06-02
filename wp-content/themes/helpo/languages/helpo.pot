@@ -1,0 +1,1814 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Artureanec WP\n"
+"POT-Creation-Date: 2021-04-29 11:20+0300\n"
+"PO-Revision-Date: 2016-01-26 20:25+0200\n"
+"Last-Translator: \n"
+"Language-Team: Artureanec <artureanec@ya.ru>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: category.php:38 index.php:38 search.php:47
+msgid "Back"
+msgstr ""
+
+#: category.php:39 index.php:39 search.php:48
+msgid "Next"
+msgstr ""
+
+#: comments.php:23
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:81
+msgid "Comments"
+msgstr ""
+
+#: comments.php:102
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:105 core/customizer.php:4999 core/metabox.php:158
+msgid "Name"
+msgstr ""
+
+#: comments.php:106 header.php:53
+msgid "Email"
+msgstr ""
+
+#: comments.php:108
+msgid "Comment"
+msgstr ""
+
+#: comments.php:109
+msgid "Post Comment"
+msgstr ""
+
+#: core/customizer.php:15
+msgid "Donate"
+msgstr ""
+
+#: core/customizer.php:358
+msgid "Home Page"
+msgstr ""
+
+#: core/customizer.php:382
+msgid "Header Settings"
+msgstr ""
+
+#: core/customizer.php:392 core/customizer.php:2204 core/customizer.php:4474
+msgid "General"
+msgstr ""
+
+#: core/customizer.php:406 core/metabox.php:339
+msgid "Header Style"
+msgstr ""
+
+#: core/customizer.php:411 core/metabox.php:343
+msgid "Style Type 1"
+msgstr ""
+
+#: core/customizer.php:412 core/metabox.php:344
+msgid "Style Type 2"
+msgstr ""
+
+#: core/customizer.php:413 core/metabox.php:345
+msgid "Style Type 3"
+msgstr ""
+
+#: core/customizer.php:414 core/metabox.php:346
+msgid "Style Type 4"
+msgstr ""
+
+#: core/customizer.php:428 core/metabox.php:352
+msgid "Transparent Header"
+msgstr ""
+
+#: core/customizer.php:433 core/customizer.php:453 core/customizer.php:473
+#: core/customizer.php:494 core/customizer.php:583 core/customizer.php:786
+#: core/metabox.php:251 core/metabox.php:261 core/metabox.php:280
+#: core/metabox.php:291 core/metabox.php:356 core/metabox.php:367
+#: core/metabox.php:378
+msgid "On"
+msgstr ""
+
+#: core/customizer.php:434 core/customizer.php:454 core/customizer.php:474
+#: core/customizer.php:495 core/customizer.php:584 core/customizer.php:787
+#: core/metabox.php:252 core/metabox.php:262 core/metabox.php:279
+#: core/metabox.php:290 core/metabox.php:357 core/metabox.php:368
+#: core/metabox.php:379
+msgid "Off"
+msgstr ""
+
+#: core/customizer.php:448 core/metabox.php:363
+msgid "Sticky Header"
+msgstr ""
+
+#: core/customizer.php:468 core/metabox.php:374
+msgid "Header Tagline"
+msgstr ""
+
+#: core/customizer.php:489 core/customizer.php:1093
+msgid "Donation Button"
+msgstr ""
+
+#: core/customizer.php:509
+msgid "Donation Button Text"
+msgstr ""
+
+#: core/customizer.php:525
+msgid "Donation Button Content Type"
+msgstr ""
+
+#: core/customizer.php:530
+msgid "Shortcode"
+msgstr ""
+
+#: core/customizer.php:531
+msgid "Link"
+msgstr ""
+
+#: core/customizer.php:546 core/metabox.php:190
+msgid "Donation Shortcode"
+msgstr ""
+
+#: core/customizer.php:562
+msgid "Donation Link"
+msgstr ""
+
+#: core/customizer.php:578 core/customizer.php:1210 core/customizer.php:2442
+msgid "Side Panel"
+msgstr ""
+
+#: core/customizer.php:594 core/customizer.php:2740
+msgid "Tag Line"
+msgstr ""
+
+#: core/customizer.php:608
+msgid "Tag Line Font Family"
+msgstr ""
+
+#: core/customizer.php:625
+msgid "Tag Line Font Size"
+msgstr ""
+
+#: core/customizer.php:640
+msgid "Tag Line Line Height"
+msgstr ""
+
+#: core/customizer.php:655
+msgid "Tag Line Font Weight"
+msgstr ""
+
+#: core/customizer.php:683
+msgid "Tag Line Uppercase"
+msgstr ""
+
+#: core/customizer.php:699
+msgid "Tag Line Italic"
+msgstr ""
+
+#: core/customizer.php:715
+msgid "Number of Phones"
+msgstr ""
+
+#: core/customizer.php:720
+msgid "One"
+msgstr ""
+
+#: core/customizer.php:721
+msgid "Two"
+msgstr ""
+
+#: core/customizer.php:735
+msgid "Tag Line Phone One"
+msgstr ""
+
+#: core/customizer.php:750
+msgid "Tag Line Phone Two"
+msgstr ""
+
+#: core/customizer.php:766
+msgid "Tag Line Email"
+msgstr ""
+
+#: core/customizer.php:781
+msgid "Tag Line Socials"
+msgstr ""
+
+#: core/customizer.php:801
+msgid "Tag Line Socials Size"
+msgstr ""
+
+#: core/customizer.php:813
+msgid "Logo"
+msgstr ""
+
+#: core/customizer.php:827
+msgid "Logo Image"
+msgstr ""
+
+#: core/customizer.php:842
+msgid "Transparent Header Logo Image"
+msgstr ""
+
+#: core/customizer.php:857
+msgid "Logo Retina"
+msgstr ""
+
+#: core/customizer.php:869
+msgid "Menu"
+msgstr ""
+
+#: core/customizer.php:883
+msgid "Menu Font Family"
+msgstr ""
+
+#: core/customizer.php:900
+msgid "Menu Font Size"
+msgstr ""
+
+#: core/customizer.php:915
+msgid "Menu Line Height"
+msgstr ""
+
+#: core/customizer.php:930
+msgid "Menu Font Weight"
+msgstr ""
+
+#: core/customizer.php:958
+msgid "Menu Uppercase"
+msgstr ""
+
+#: core/customizer.php:974
+msgid "Menu Italic"
+msgstr ""
+
+#: core/customizer.php:990
+msgid "Sub Menu Font Family"
+msgstr ""
+
+#: core/customizer.php:1007
+msgid "Sub Menu Font Size"
+msgstr ""
+
+#: core/customizer.php:1022
+msgid "Sub Menu Line Height"
+msgstr ""
+
+#: core/customizer.php:1037
+msgid "Sub Menu Font Weight"
+msgstr ""
+
+#: core/customizer.php:1065
+msgid "Sub Menu Uppercase"
+msgstr ""
+
+#: core/customizer.php:1081
+msgid "Sub Menu Italic"
+msgstr ""
+
+#: core/customizer.php:1107
+msgid "Button Font Family"
+msgstr ""
+
+#: core/customizer.php:1124
+msgid "Button Font Size"
+msgstr ""
+
+#: core/customizer.php:1139
+msgid "Button Line Height"
+msgstr ""
+
+#: core/customizer.php:1154
+msgid "Button Font Weight"
+msgstr ""
+
+#: core/customizer.php:1182
+msgid "Button Uppercase"
+msgstr ""
+
+#: core/customizer.php:1198
+msgid "Button Italic"
+msgstr ""
+
+#: core/customizer.php:1224
+msgid "Side Menu Font Family"
+msgstr ""
+
+#: core/customizer.php:1241
+msgid "Side Menu Font Size"
+msgstr ""
+
+#: core/customizer.php:1256
+msgid "Side Menu Line Height"
+msgstr ""
+
+#: core/customizer.php:1271
+msgid "Side Menu Font Weight"
+msgstr ""
+
+#: core/customizer.php:1299
+msgid "Side Menu Uppercase"
+msgstr ""
+
+#: core/customizer.php:1315
+msgid "Side Menu Italic"
+msgstr ""
+
+#: core/customizer.php:1331
+msgid "Side Panel Information"
+msgstr ""
+
+#: core/customizer.php:1336 core/customizer.php:1356 core/customizer.php:1392
+#: core/customizer.php:4493 core/customizer.php:4529 core/customizer.php:4571
+#: core/customizer.php:4611 core/customizer.php:4647 core/customizer.php:4693
+#: core/customizer.php:4728 core/customizer.php:4748 core/customizer.php:4876
+#: core/customizer.php:4896 core/customizer.php:4916 core/customizer.php:4936
+#: core/customizer.php:4956 core/metabox.php:90 core/metabox.php:101
+#: core/metabox.php:112 core/metabox.php:123 core/metabox.php:134
+#: core/metabox.php:241 core/metabox.php:400 core/metabox.php:411
+#: core/metabox.php:506 core/metabox.php:543 core/metabox.php:598
+#: core/metabox.php:621
+msgid "Show"
+msgstr ""
+
+#: core/customizer.php:1337 core/customizer.php:1357 core/customizer.php:1393
+#: core/customizer.php:4494 core/customizer.php:4530 core/customizer.php:4572
+#: core/customizer.php:4612 core/customizer.php:4648 core/customizer.php:4694
+#: core/customizer.php:4729 core/customizer.php:4749 core/customizer.php:4877
+#: core/customizer.php:4897 core/customizer.php:4917 core/customizer.php:4937
+#: core/customizer.php:4957 core/metabox.php:91 core/metabox.php:102
+#: core/metabox.php:113 core/metabox.php:124 core/metabox.php:135
+#: core/metabox.php:242 core/metabox.php:401 core/metabox.php:412
+#: core/metabox.php:507 core/metabox.php:544 core/metabox.php:599
+#: core/metabox.php:622
+msgid "Hide"
+msgstr ""
+
+#: core/customizer.php:1351
+msgid "Side Panel Socials"
+msgstr ""
+
+#: core/customizer.php:1371
+msgid "Side Panel Socials Size"
+msgstr ""
+
+#: core/customizer.php:1387
+msgid "Side Panel Donation Button"
+msgstr ""
+
+#: core/customizer.php:1403
+msgid "Typography Settings"
+msgstr ""
+
+#: core/customizer.php:1413
+msgid "Main Font"
+msgstr ""
+
+#: core/customizer.php:1427
+msgid "Main Font Family"
+msgstr ""
+
+#: core/customizer.php:1444
+msgid "Main Font Size"
+msgstr ""
+
+#: core/customizer.php:1459
+msgid "Main Font Line Height"
+msgstr ""
+
+#: core/customizer.php:1474
+msgid "Main Font Weight"
+msgstr ""
+
+#: core/customizer.php:1498
+msgid "Headings"
+msgstr ""
+
+#: core/customizer.php:1512
+msgid "Headings Font Family"
+msgstr ""
+
+#: core/customizer.php:1529
+msgid "Headings Font Weight"
+msgstr ""
+
+#: core/customizer.php:1557
+msgid "Headings Uppercase"
+msgstr ""
+
+#: core/customizer.php:1573
+msgid "Headings Italic"
+msgstr ""
+
+#: core/customizer.php:1589
+msgid "H1 Font Size"
+msgstr ""
+
+#: core/customizer.php:1604
+msgid "H1 Line Height"
+msgstr ""
+
+#: core/customizer.php:1619
+msgid "H2 Font Size"
+msgstr ""
+
+#: core/customizer.php:1634
+msgid "H2 Line Height"
+msgstr ""
+
+#: core/customizer.php:1649
+msgid "H3 Font Size"
+msgstr ""
+
+#: core/customizer.php:1664
+msgid "H3 Line Height"
+msgstr ""
+
+#: core/customizer.php:1679
+msgid "H4 Font Size"
+msgstr ""
+
+#: core/customizer.php:1694
+msgid "H4 Line Height"
+msgstr ""
+
+#: core/customizer.php:1709
+msgid "H5 Font Size"
+msgstr ""
+
+#: core/customizer.php:1724
+msgid "H5 Line Height"
+msgstr ""
+
+#: core/customizer.php:1739
+msgid "H6 Font Size"
+msgstr ""
+
+#: core/customizer.php:1754
+msgid "H6 Line Height"
+msgstr ""
+
+#: core/customizer.php:1765 core/customizer.php:3144
+msgid "Buttons"
+msgstr ""
+
+#: core/customizer.php:1779
+msgid "Buttons Font Family"
+msgstr ""
+
+#: core/customizer.php:1796
+msgid "Buttons Font Size"
+msgstr ""
+
+#: core/customizer.php:1811
+msgid "Buttons Font Weight"
+msgstr ""
+
+#: core/customizer.php:1839
+msgid "Buttons Uppercase"
+msgstr ""
+
+#: core/customizer.php:1855
+msgid "Buttons Italic"
+msgstr ""
+
+#: core/customizer.php:1867 core/customizer.php:3932 core/customizer.php:4674
+#: core/customizer.php:4688 core/metabox.php:396
+msgid "Page Title"
+msgstr ""
+
+#: core/customizer.php:1881
+msgid "Site Title Font Family"
+msgstr ""
+
+#: core/customizer.php:1898
+msgid "Site Title Font Size"
+msgstr ""
+
+#: core/customizer.php:1913
+msgid "Page Title Font Family"
+msgstr ""
+
+#: core/customizer.php:1930
+msgid "Page Title Font Size"
+msgstr ""
+
+#: core/customizer.php:1945
+msgid "Page Subtitle Font Family"
+msgstr ""
+
+#: core/customizer.php:1962
+msgid "Page Subtitle Font Size"
+msgstr ""
+
+#: core/customizer.php:1973
+msgid "Social Links"
+msgstr ""
+
+#: core/customizer.php:1987
+msgid "Open Socials in New Tab"
+msgstr ""
+
+#: core/customizer.php:2003
+msgid "Facebook"
+msgstr ""
+
+#: core/customizer.php:2018
+msgid "Twitter"
+msgstr ""
+
+#: core/customizer.php:2033
+msgid "LinkedIn"
+msgstr ""
+
+#: core/customizer.php:2048
+msgid "YouTube"
+msgstr ""
+
+#: core/customizer.php:2063
+msgid "Instagram"
+msgstr ""
+
+#: core/customizer.php:2078
+msgid "Pinterest"
+msgstr ""
+
+#: core/customizer.php:2093
+msgid "Tumblr"
+msgstr ""
+
+#: core/customizer.php:2108
+msgid "Flickr"
+msgstr ""
+
+#: core/customizer.php:2123
+msgid "VK"
+msgstr ""
+
+#: core/customizer.php:2138
+msgid "Dribbble"
+msgstr ""
+
+#: core/customizer.php:2153
+msgid "Vimeo"
+msgstr ""
+
+#: core/customizer.php:2168
+msgid "500px"
+msgstr ""
+
+#: core/customizer.php:2183
+msgid "Xing"
+msgstr ""
+
+#: core/customizer.php:2194
+msgid "Color Settings"
+msgstr ""
+
+#: core/customizer.php:2218
+msgid "Color Scheme"
+msgstr ""
+
+#: core/customizer.php:2223
+msgid "Colored"
+msgstr ""
+
+#: core/customizer.php:2224
+msgid "Monochrome"
+msgstr ""
+
+#: core/customizer.php:2238 core/customizer.php:2334
+msgid "Site Background"
+msgstr ""
+
+#: core/customizer.php:2254 core/customizer.php:2350
+msgid "Site Main Color"
+msgstr ""
+
+#: core/customizer.php:2270 core/customizer.php:2366
+msgid "Main Font Color"
+msgstr ""
+
+#: core/customizer.php:2286 core/customizer.php:2382
+msgid "Headings Color"
+msgstr ""
+
+#: core/customizer.php:2302 core/customizer.php:2398
+msgid "Listing Titles Color"
+msgstr ""
+
+#: core/customizer.php:2318 core/customizer.php:2414
+msgid "Listing Titles Hover"
+msgstr ""
+
+#: core/customizer.php:2430
+msgid "Listings Background"
+msgstr ""
+
+#: core/customizer.php:2456 core/customizer.php:2600
+msgid "Side Panel Background"
+msgstr ""
+
+#: core/customizer.php:2472 core/customizer.php:2616
+msgid "Close Button Color"
+msgstr ""
+
+#: core/customizer.php:2488 core/customizer.php:2632
+msgid "Close Button Hover"
+msgstr ""
+
+#: core/customizer.php:2504 core/customizer.php:2648
+msgid "Side Menu Color"
+msgstr ""
+
+#: core/customizer.php:2520 core/customizer.php:2664
+msgid "Side Menu Hover"
+msgstr ""
+
+#: core/customizer.php:2536 core/customizer.php:2680
+msgid "Side Panel Info Color"
+msgstr ""
+
+#: core/customizer.php:2552 core/customizer.php:2696
+msgid "Side Panel Info Hover"
+msgstr ""
+
+#: core/customizer.php:2568 core/customizer.php:2712
+msgid "Side Panel Socials Color"
+msgstr ""
+
+#: core/customizer.php:2584 core/customizer.php:2728
+msgid "Side Panel Socials Hover"
+msgstr ""
+
+#: core/customizer.php:2754 core/customizer.php:2802
+msgid "Tag Line Background"
+msgstr ""
+
+#: core/customizer.php:2770 core/customizer.php:2818
+msgid "Tag Line Links Color"
+msgstr ""
+
+#: core/customizer.php:2786 core/customizer.php:2834
+msgid "Tag Line Links Hover"
+msgstr ""
+
+#: core/customizer.php:2846
+msgid "Header"
+msgstr ""
+
+#: core/customizer.php:2860 core/customizer.php:3004
+msgid "Header Background"
+msgstr ""
+
+#: core/customizer.php:2876 core/customizer.php:3020
+msgid "Side Panel Trigger Color"
+msgstr ""
+
+#: core/customizer.php:2892 core/customizer.php:3036
+msgid "Side Panel Trigger Hover"
+msgstr ""
+
+#: core/customizer.php:2908 core/customizer.php:3052
+msgid "Header Menu Color"
+msgstr ""
+
+#: core/customizer.php:2924 core/customizer.php:3068
+msgid "Header Menu Hover"
+msgstr ""
+
+#: core/customizer.php:2940 core/customizer.php:3084
+msgid "Header Sub Menu Color"
+msgstr ""
+
+#: core/customizer.php:2956 core/customizer.php:3100
+msgid "Header Sub Menu Hover"
+msgstr ""
+
+#: core/customizer.php:2972 core/customizer.php:3116
+msgid "Header Sub Menu Background"
+msgstr ""
+
+#: core/customizer.php:2988 core/customizer.php:3132
+msgid "Main Menu Marker Color"
+msgstr ""
+
+#: core/customizer.php:3158 core/customizer.php:3382
+msgid "Button Color"
+msgstr ""
+
+#: core/customizer.php:3174 core/customizer.php:3398
+msgid "Button Hover"
+msgstr ""
+
+#: core/customizer.php:3190 core/customizer.php:3414
+msgid "Button Background"
+msgstr ""
+
+#: core/customizer.php:3206 core/customizer.php:3430
+msgid "Button Background Hover"
+msgstr ""
+
+#: core/customizer.php:3222 core/customizer.php:3446
+msgid "Filled Button Color"
+msgstr ""
+
+#: core/customizer.php:3238 core/customizer.php:3462
+msgid "Filled Button Hover"
+msgstr ""
+
+#: core/customizer.php:3254 core/customizer.php:3478
+msgid "Filled Button Background"
+msgstr ""
+
+#: core/customizer.php:3270 core/customizer.php:3494
+msgid "Filled Button Background Hover"
+msgstr ""
+
+#: core/customizer.php:3286 core/customizer.php:3510
+msgid "Post Social Buttons Color"
+msgstr ""
+
+#: core/customizer.php:3302 core/customizer.php:3526
+msgid "Post Social Buttons Hover"
+msgstr ""
+
+#: core/customizer.php:3318 core/customizer.php:3542
+msgid "Post Social Buttons Border Color"
+msgstr ""
+
+#: core/customizer.php:3334 core/customizer.php:3558
+msgid "Post Social Buttons Border Hover"
+msgstr ""
+
+#: core/customizer.php:3350 core/customizer.php:3574
+msgid "Post Social Buttons Background"
+msgstr ""
+
+#: core/customizer.php:3366 core/customizer.php:3590
+msgid "Post Social Buttons Background Hover"
+msgstr ""
+
+#: core/customizer.php:3602 core/customizer.php:4566 core/metabox.php:617
+msgid "Footer"
+msgstr ""
+
+#: core/customizer.php:3616 core/customizer.php:3776 core/metabox.php:582
+msgid "Bottom Image Block Background"
+msgstr ""
+
+#: core/customizer.php:3632 core/customizer.php:3792
+msgid "Prefooter Background"
+msgstr ""
+
+#: core/customizer.php:3648 core/customizer.php:3808
+msgid "Prefooter Text Color"
+msgstr ""
+
+#: core/customizer.php:3664 core/customizer.php:3824
+msgid "Prefooter Links Hover"
+msgstr ""
+
+#: core/customizer.php:3680 core/customizer.php:3840
+msgid "Prefooter Socials Color"
+msgstr ""
+
+#: core/customizer.php:3696 core/customizer.php:3856
+msgid "Prefooter Socials Hover"
+msgstr ""
+
+#: core/customizer.php:3712 core/customizer.php:3872
+msgid "Prefooter Widget Titles Color"
+msgstr ""
+
+#: core/customizer.php:3728 core/customizer.php:3888
+msgid "Footer Background"
+msgstr ""
+
+#: core/customizer.php:3744 core/customizer.php:3904
+msgid "Footer Color"
+msgstr ""
+
+#: core/customizer.php:3760 core/customizer.php:3920
+msgid "Footer Links Hover"
+msgstr ""
+
+#: core/customizer.php:3946 core/customizer.php:4026
+msgid "Site Title Color"
+msgstr ""
+
+#: core/customizer.php:3962 core/customizer.php:4042
+msgid "Page Title Color"
+msgstr ""
+
+#: core/customizer.php:3978 core/customizer.php:4058
+msgid "Page Subtitle Color"
+msgstr ""
+
+#: core/customizer.php:3994 core/customizer.php:4074
+msgid "First Title Divider Color"
+msgstr ""
+
+#: core/customizer.php:4010 core/customizer.php:4090
+msgid "Second Title Divider Color"
+msgstr ""
+
+#: core/customizer.php:4102
+msgid "Forms"
+msgstr ""
+
+#: core/customizer.php:4116 core/customizer.php:4292
+msgid "Form Field Color"
+msgstr ""
+
+#: core/customizer.php:4132 core/customizer.php:4308
+msgid "Form Field Background"
+msgstr ""
+
+#: core/customizer.php:4148 core/customizer.php:4324
+msgid "Form Field Border"
+msgstr ""
+
+#: core/customizer.php:4164 core/customizer.php:4340
+msgid "Active Form Field Background"
+msgstr ""
+
+#: core/customizer.php:4180 core/customizer.php:4356
+msgid "Active Form Field Border"
+msgstr ""
+
+#: core/customizer.php:4196 core/customizer.php:4372
+msgid "Form Button Color"
+msgstr ""
+
+#: core/customizer.php:4212 core/customizer.php:4388
+msgid "Form Button Hover"
+msgstr ""
+
+#: core/customizer.php:4228 core/customizer.php:4404
+msgid "Form Button Background"
+msgstr ""
+
+#: core/customizer.php:4244 core/customizer.php:4420
+msgid "Form Button Background Hover"
+msgstr ""
+
+#: core/customizer.php:4260 core/customizer.php:4436
+msgid "Form Button Border Color"
+msgstr ""
+
+#: core/customizer.php:4276 core/customizer.php:4452
+msgid "Form Button Border Hover"
+msgstr ""
+
+#: core/customizer.php:4464
+msgid "Footer Settings"
+msgstr ""
+
+#: core/customizer.php:4488 core/customizer.php:4508 footer.php:19
+msgid "Bottom Image"
+msgstr ""
+
+#: core/customizer.php:4524 core/metabox.php:594
+msgid "Footer Widgets Section"
+msgstr ""
+
+#: core/customizer.php:4544 core/metabox.php:605
+msgid "Footer Widgets Section Type"
+msgstr ""
+
+#: core/customizer.php:4549 core/customizer.php:4591 core/metabox.php:609
+#: core/metabox.php:632
+msgid "Type 1"
+msgstr ""
+
+#: core/customizer.php:4550 core/customizer.php:4592 core/metabox.php:610
+#: core/metabox.php:633
+msgid "Type 2"
+msgstr ""
+
+#: core/customizer.php:4551 core/metabox.php:611
+msgid "Type 3"
+msgstr ""
+
+#: core/customizer.php:4586 core/metabox.php:628
+msgid "Footer Type"
+msgstr ""
+
+#: core/customizer.php:4606
+msgid "Footer Copyright"
+msgstr ""
+
+#: core/customizer.php:4626
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: core/customizer.php:4642 functions.php:156
+msgid "Footer Menu"
+msgstr ""
+
+#: core/customizer.php:4663
+msgid "Enter Footer Form Shortcode"
+msgstr ""
+
+#: core/customizer.php:4708
+msgid "Page Title Height, px"
+msgstr ""
+
+#: core/customizer.php:4723
+msgid "Title Image"
+msgstr ""
+
+#: core/customizer.php:4743 core/metabox.php:502
+msgid "Site Title"
+msgstr ""
+
+#: core/customizer.php:4763
+msgid "Site Title Type"
+msgstr ""
+
+#: core/customizer.php:4768 core/metabox.php:444 core/metabox.php:554
+#: core/metabox.php:576
+msgid "Custom"
+msgstr ""
+
+#: core/customizer.php:4769 core/metabox.php:89 core/metabox.php:100
+#: core/metabox.php:111 core/metabox.php:122 core/metabox.php:133
+#: core/metabox.php:144 core/metabox.php:155 core/metabox.php:167
+#: core/metabox.php:240 core/metabox.php:342 core/metabox.php:355
+#: core/metabox.php:366 core/metabox.php:377 core/metabox.php:399
+#: core/metabox.php:410 core/metabox.php:421 core/metabox.php:443
+#: core/metabox.php:476 core/metabox.php:505 core/metabox.php:523
+#: core/metabox.php:542 core/metabox.php:553 core/metabox.php:575
+#: core/metabox.php:597 core/metabox.php:608 core/metabox.php:620
+#: core/metabox.php:631
+msgid "Default"
+msgstr ""
+
+#: core/customizer.php:4784
+msgid "Alternative Site Title"
+msgstr ""
+
+#: core/customizer.php:4800 core/customizer.php:5045
+msgid "Background Image"
+msgstr ""
+
+#: core/customizer.php:4815 core/metabox.php:461
+msgid "Page Title Background Color"
+msgstr ""
+
+#: core/customizer.php:4826
+msgid "Sidebars"
+msgstr ""
+
+#: core/customizer.php:4840 core/metabox.php:520
+msgid "Sidebar Position"
+msgstr ""
+
+#: core/customizer.php:4845 core/metabox.php:524
+msgid "Left"
+msgstr ""
+
+#: core/customizer.php:4846 core/metabox.php:525
+msgid "Right"
+msgstr ""
+
+#: core/customizer.php:4847 core/metabox.php:526
+msgid "None"
+msgstr ""
+
+#: core/customizer.php:4857
+msgid "Single Post"
+msgstr ""
+
+#: core/customizer.php:4871 core/metabox.php:86 core/metabox.php:237
+msgid "Media Output Container"
+msgstr ""
+
+#: core/customizer.php:4891
+msgid "Post Meta"
+msgstr ""
+
+#: core/customizer.php:4911 core/metabox.php:108
+msgid "Panel After Post Content"
+msgstr ""
+
+#: core/customizer.php:4931 core/metabox.php:119
+msgid "Post Comments"
+msgstr ""
+
+#: core/customizer.php:4951 core/metabox.php:130
+msgid "Recent Posts"
+msgstr ""
+
+#: core/customizer.php:4971 core/metabox.php:141
+msgid "Number of Posts"
+msgstr ""
+
+#: core/customizer.php:4976 core/metabox.php:145
+msgid "2 Items"
+msgstr ""
+
+#: core/customizer.php:4977 core/metabox.php:146
+msgid "3 Items"
+msgstr ""
+
+#: core/customizer.php:4992 core/metabox.php:152
+msgid "Order By"
+msgstr ""
+
+#: core/customizer.php:4997 core/metabox.php:156
+msgid "Random"
+msgstr ""
+
+#: core/customizer.php:4998 core/metabox.php:157
+msgid "Date"
+msgstr ""
+
+#: core/customizer.php:5014 core/metabox.php:164
+msgid "Sort Order"
+msgstr ""
+
+#: core/customizer.php:5019 core/metabox.php:168
+msgid "Descending"
+msgstr ""
+
+#: core/customizer.php:5020 core/metabox.php:169
+msgid "Ascending"
+msgstr ""
+
+#: core/customizer.php:5031
+msgid "Error 404 Page"
+msgstr ""
+
+#: core/customizer.php:5060
+msgid "Background Color"
+msgstr ""
+
+#: core/customizer.php:5075
+msgid "404 Error Title"
+msgstr ""
+
+#: core/customizer.php:5090
+msgid "404 Error Info Text"
+msgstr ""
+
+#: core/customizer.php:5105
+msgid "Home Button Text"
+msgstr ""
+
+#: core/customizer.php:5116
+msgid "Helpo Settings for WooCommerce"
+msgstr ""
+
+#: core/customizer.php:5130
+msgid "Single Products Title Background Image"
+msgstr ""
+
+#: core/customizer.php:5145
+msgid "Product Page Sub Title"
+msgstr ""
+
+#: core/import/import.php:37
+msgid "After activating all the recommended plugins, you can import all demo content in one-touch. Appearance > Import Demo Data."
+msgstr ""
+
+#: core/metabox.php:16
+msgid "Image Post Format Settings"
+msgstr ""
+
+#: core/metabox.php:21 core/metabox.php:560
+msgid "Select Images"
+msgstr ""
+
+#: core/metabox.php:26
+msgid "Crop Images"
+msgstr ""
+
+#: core/metabox.php:29
+msgid "Yes"
+msgstr ""
+
+#: core/metabox.php:30
+msgid "No"
+msgstr ""
+
+#: core/metabox.php:35
+msgid "Image Width"
+msgstr ""
+
+#: core/metabox.php:37 core/metabox.php:48 core/metabox.php:73
+msgid "In pixels."
+msgstr ""
+
+#: core/metabox.php:46
+msgid "Image Height"
+msgstr ""
+
+#: core/metabox.php:60
+msgid "Video Post Format Settings"
+msgstr ""
+
+#: core/metabox.php:65
+msgid "Video URL"
+msgstr ""
+
+#: core/metabox.php:67
+msgid "Copy link to the video from YouTube or other video-sharing website."
+msgstr ""
+
+#: core/metabox.php:71
+msgid "Video Height"
+msgstr ""
+
+#: core/metabox.php:81
+msgid "Content Output Settings"
+msgstr ""
+
+#: core/metabox.php:97
+msgid "Post Meta Container"
+msgstr ""
+
+#: core/metabox.php:175
+msgid "Recent Posts Container Background"
+msgstr ""
+
+#: core/metabox.php:185
+msgid "Causes Fields"
+msgstr ""
+
+#: core/metabox.php:198
+msgid "Events Fields"
+msgstr ""
+
+#: core/metabox.php:203
+msgid "Event Address"
+msgstr ""
+
+#: core/metabox.php:204 core/metabox.php:213 core/metabox.php:222
+msgid "You can use HTML tags"
+msgstr ""
+
+#: core/metabox.php:212
+msgid "Event Date"
+msgstr ""
+
+#: core/metabox.php:221
+msgid "Event Time"
+msgstr ""
+
+#: core/metabox.php:232
+msgid "Content Settings"
+msgstr ""
+
+#: core/metabox.php:248 core/metabox.php:275
+msgid "Content Area Top Padding"
+msgstr ""
+
+#: core/metabox.php:258 core/metabox.php:286
+msgid "Content Area Bottom Padding"
+msgstr ""
+
+#: core/metabox.php:270
+msgid "Page Padding Settings"
+msgstr ""
+
+#: core/metabox.php:299
+msgid "Page Settings"
+msgstr ""
+
+#: core/metabox.php:305
+msgid "Body Options"
+msgstr ""
+
+#: core/metabox.php:311
+msgid "Body Background Color Type"
+msgstr ""
+
+#: core/metabox.php:314
+msgid "Default Color"
+msgstr ""
+
+#: core/metabox.php:315
+msgid "Alternative Color"
+msgstr ""
+
+#: core/metabox.php:321
+msgid "Body Background Color"
+msgstr ""
+
+#: core/metabox.php:333
+msgid "Header Options"
+msgstr ""
+
+#: core/metabox.php:390
+msgid "Title Options"
+msgstr ""
+
+#: core/metabox.php:407
+msgid "Page Title Image"
+msgstr ""
+
+#: core/metabox.php:418
+msgid "Page Title Image Type"
+msgstr ""
+
+#: core/metabox.php:422 core/metabox.php:477
+msgid "Alternative"
+msgstr ""
+
+#: core/metabox.php:428
+msgid "Alternative Page Title Image"
+msgstr ""
+
+#: core/metabox.php:440
+msgid "Page Title Settings"
+msgstr ""
+
+#: core/metabox.php:450
+msgid "Page Title Height"
+msgstr ""
+
+#: core/metabox.php:473
+msgid "Page Title Type"
+msgstr ""
+
+#: core/metabox.php:483
+msgid "Alternative Page Title"
+msgstr ""
+
+#: core/metabox.php:484
+msgid "You can use HTML tags in alternative title"
+msgstr ""
+
+#: core/metabox.php:496
+msgid "Page Subtitle"
+msgstr ""
+
+#: core/metabox.php:514
+msgid "Sidebar Options"
+msgstr ""
+
+#: core/metabox.php:533
+msgid "Footer Options"
+msgstr ""
+
+#: core/metabox.php:539
+msgid "Bottom Image Status"
+msgstr ""
+
+#: core/metabox.php:550
+msgid "Bottom Image Type"
+msgstr ""
+
+#: core/metabox.php:572
+msgid "Bottom Image Block Background Type"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:334 core/tgm/init.php:114
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:335 core/tgm/init.php:115
+msgid "Install Plugins"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:337 core/tgm/init.php:116
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:340 core/tgm/init.php:117
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:342 core/tgm/init.php:118
+#, php-format
+msgid "This theme requires the following plugins: %1$s."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:346 core/tgm/init.php:119
+#, php-format
+msgid "This theme recommends the following plugins: %1$s."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:350 core/tgm/init.php:124
+#, php-format
+msgid "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There are updates available for the following plugins: %1$s."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:358 core/tgm/init.php:121
+#, php-format
+msgid "The following required plugins are currently inactive: %1$s."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:362 core/tgm/init.php:122
+#, php-format
+msgid "The following recommended plugins are currently inactive: %1$s."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:366 core/tgm/init.php:126
+msgid "Begin installing plugins"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin updating plugins"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:374 core/tgm/init.php:127
+msgid "Begin activating plugins"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:377 core/tgm/init.php:128
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:378
+#: core/tgm/class-tgm-plugin-activation.php:897
+#: core/tgm/class-tgm-plugin-activation.php:2603
+#: core/tgm/class-tgm-plugin-activation.php:3650
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:379
+#: core/tgm/class-tgm-plugin-activation.php:3229 core/tgm/init.php:129
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:380
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:382
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:384
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:386
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:387
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:388
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:389
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:592
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:593
+msgid "Update Required"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1004
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1004
+#: core/tgm/class-tgm-plugin-activation.php:1007
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1007
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2052
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2343
+msgid "Required"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2346
+msgid "Recommended"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2362
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2365
+msgid "External Source"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2368
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2385
+msgid "Not Installed"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2389
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2391
+msgid "Active"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2397
+msgid "Required Update not Available"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2400
+msgid "Requires Update"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2403
+msgid "Update recommended"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2560
+msgid "Installed version:"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2568
+msgid "Minimum required version:"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2580
+msgid "Available version:"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2603
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2617
+msgid "Plugin"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2618
+msgid "Source"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2619
+msgid "Type"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2623
+msgid "Version"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2624
+msgid "Status"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2673
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2678
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2684
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2754
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2787
+msgid "Install"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2793
+msgid "Update"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2796
+msgid "Activate"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2827
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2829
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2870
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2872
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2978
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3004
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3228
+msgid "Plugin activation failed."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3568
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3571
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3573
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3577
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3579
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3579
+#: core/tgm/class-tgm-plugin-activation.php:3587
+msgid "Show Details"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3579
+#: core/tgm/class-tgm-plugin-activation.php:3587
+msgid "Hide Details"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3580
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3582
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3585
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3587
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3588
+msgid "All installations have been completed."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3590
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/tgm/init.php:20
+msgid "Helpo Plugin"
+msgstr ""
+
+#: core/tgm/init.php:29
+msgid "Contact Form 7"
+msgstr ""
+
+#: core/tgm/init.php:34
+msgid "One Click Demo Import"
+msgstr ""
+
+#: core/tgm/init.php:41
+msgid "Meta Box"
+msgstr ""
+
+#: core/tgm/init.php:48
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: core/tgm/init.php:55
+msgid "Give – Donation Plugin"
+msgstr ""
+
+#: core/tgm/init.php:62
+msgid "Envato Market"
+msgstr ""
+
+#: core/tgm/init.php:71
+msgid "WooCommerce"
+msgstr ""
+
+#: core/tgm/init.php:76
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: core/tgm/init.php:83
+msgid "Smash Balloon Instagram Feed"
+msgstr ""
+
+#: core/tgm/init.php:90
+msgid "QuadMenu"
+msgstr ""
+
+#: core/tgm/init.php:120
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr ""
+
+#: core/tgm/init.php:123
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr ""
+
+#: core/tgm/init.php:125
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr ""
+
+#: core/tgm/init.php:130
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:35
+msgid "The helpo_get_theme_mod(\""
+msgstr ""
+
+#: functions.php:35
+msgid "\") function takes only one argument. Define default values in core/customizer.php."
+msgstr ""
+
+#: functions.php:41 functions.php:271
+msgid "Error! You did not add the default value for the \""
+msgstr ""
+
+#: functions.php:41 functions.php:271
+msgid "\" option! core/customizer.php."
+msgstr ""
+
+#: functions.php:144
+msgid "Main menu"
+msgstr ""
+
+#: functions.php:150
+msgid "Side Menu"
+msgstr ""
+
+#: functions.php:170
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:172
+msgid "Widgets in this area will be shown on all posts and pages."
+msgstr ""
+
+#: functions.php:182
+msgid "Footer Sidebar Type 1"
+msgstr ""
+
+#: functions.php:184 functions.php:196 functions.php:208
+msgid "Widgets in this area will be shown on footer area."
+msgstr ""
+
+#: functions.php:194
+msgid "Footer Sidebar Type 2"
+msgstr ""
+
+#: functions.php:206
+msgid "Footer Sidebar Type 3"
+msgstr ""
+
+#: functions.php:219
+msgid "Sidebar WooCommerce"
+msgstr ""
+
+#: functions.php:221
+msgid "Widgets in this area will be shown on Woocommerce Pages."
+msgstr ""
+
+#: functions.php:265
+msgid "The helpo_get_prefered_option(\""
+msgstr ""
+
+#: functions.php:265
+msgid "\") function may takes only one argument."
+msgstr ""
+
+#: functions.php:693
+msgid "Shop "
+msgstr ""
+
+#: functions.php:693
+msgid "Product"
+msgstr ""
+
+#: functions.php:696 functions.php:728
+msgid "Home"
+msgstr ""
+
+#: functions.php:699 functions.php:731
+msgid "Archive by Tag "
+msgstr ""
+
+#: functions.php:705
+msgid "Shop Category"
+msgstr ""
+
+#: functions.php:714 functions.php:733
+msgid "Archive"
+msgstr ""
+
+#: functions.php:717 functions.php:736
+msgid "Search Results By "
+msgstr ""
+
+#: functions.php:961
+msgid "Similar"
+msgstr ""
+
+#: functions.php:961
+msgid "Posts"
+msgstr ""
+
+#: functions.php:1127 header.php:257
+msgid "Cart is empty"
+msgstr ""
+
+#: header.php:69
+msgid "Phone Numbers"
+msgstr ""
+
+#: header.php:83
+msgid "Phone Number"
+msgstr ""
+
+#: header.php:245
+msgid "Please create and select menu in Appearance (Menus)"
+msgstr ""
+
+#: page.php:42 single.php:48 woocommerce.php:48
+msgid "Pages"
+msgstr ""
+
+#: search.php:34
+msgid "Oops! Nothing Found!"
+msgstr ""
+
+#: searchform.php:10
+msgid "Search"
+msgstr ""
+
+#: searchform.php:10
+msgid "Search the site..."
+msgstr ""
+
+#: standard-listing.php:62
+msgid "Read More"
+msgstr ""

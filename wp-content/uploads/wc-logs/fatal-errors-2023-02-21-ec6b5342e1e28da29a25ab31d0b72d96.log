@@ -1,0 +1,22 @@
+2023-02-21T08:58:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\bdthemes-element-pack\modules\total-count\widgets\total-count.php on line 16
+
+2023-02-21T11:03:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2023-02-21T11:04:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro\plugin.php on line 152
+
+2023-02-21T11:04:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro\plugin.php on line 152
+
+2023-02-21T11:04:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\bdthemes-element-pack\modules\table-of-content\widgets\table-of-content.php on line 11
+
+2023-02-21T11:04:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\bdthemes-element-pack\modules\news-ticker\widgets\news-ticker.php on line 14
+
+2023-02-21T11:04:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\essential-addons-elementor\includes\Elements\Testimonial_Slider.php on line 16
+
+2023-02-21T11:04:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\base\widget-base.php on line 183
+
+2023-02-21T11:04:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 11
+
+2023-02-21T11:15:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\class-wpdb.php on line 2187
+
+2023-02-21T11:18:36+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\base\widget-base.php on line 183
+

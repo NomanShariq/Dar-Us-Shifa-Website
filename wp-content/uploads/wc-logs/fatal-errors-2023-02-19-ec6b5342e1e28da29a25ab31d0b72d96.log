@@ -1,0 +1,21 @@
+2023-02-19T11:14:30+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in C:\xampp\htdocs\wordpress\wp-content\plugins\tablepress\libraries\freemius\includes\class-freemius.php:20178
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\tablepress\libraries\freemius\includes\class-freemius.php(20536): Freemius->_store_plans(false)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\tablepress\libraries\freemius\includes\class-freemius.php(17245): Freemius->_store_account()
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\tablepress\libraries\freemius\includes\class-freemius.php(18695): Freemius->_set_account(Object(FS_User), Object(FS_Site))
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\tablepress\libraries\freemius\includes\class-freemius.php(17857): Freemius->handle_account_connection(Array, true)
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\tablepress\libraries\freemius\includes\class-freemius.php(17804): Freemius->setup_network_account(Object(FS_User), Array, true, false, false)
+#5 C:\xampp\htdocs\wordpress\wp-content\plugins\tablepress\libraries\freemius\includes\class-freemius.php(18131): Freemius->setup_account(Object(FS_User), Object(FS_Site), true, false)
+#6 C:\xampp\htdocs\wordpress\wp-content\plugins\tablepress\libraries\freemius\includes\class-freemius.php(18010): Freemius->install_with_new_user('6689155', 'pk_cec1247a10ee...', 'sk_D5~CgTPY)e7^...', true, true, true, '11406758', 'pk_83dd2dcf736a...', 'sk_fmVg8?O1[dS{...', true, false)
+#7 C:\xampp\htdocs\wordpress\wp-content\plugins\tablepress\libraries\freemius\includes\class-freemius.php(19038): Freemius->_install_with_new_user()
+#8 C:\xampp\htdocs\wordpress\wp-content\plugins\tablepress\libraries\freemius\includes\class-freemius.php(18911): Freemius->override_plugin_menu_with_activation()
+#9 C:\xampp\htdocs\wordpress\wp-content\plugins\tablepress\libraries\freemius\includes\class-freemius.php(18891): Freemius->add_menu_action()
+#10 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): Freemius->_prepare_admin_menu('')
+#11 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#12 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#13 C:\xampp\htdocs\wordpress\wp-admin\includes\menu.php(155): do_action('admin_menu', '')
+#14 C:\xampp\htdocs\wordpress\wp-admin\menu.php(428): require_once('C:\\xampp\\htdocs...')
+#15 C:\xampp\htdocs\wordpress\wp-admin\admin.php(158): require('C:\\xampp\\htdocs...')
+#16 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\tablepress\libraries\freemius\includes\class-freemius.php on line 20178
+

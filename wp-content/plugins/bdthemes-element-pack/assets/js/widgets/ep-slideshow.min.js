@@ -1,0 +1,1 @@
+!function(e,n){"use strict";var o=function(e,n){n(".content-1").mThumbnailScroller({axis:"yx",type:"hover-precise"})};jQuery(window).on("elementor/frontend/init",function(){elementorFrontend.hooks.addAction("frontend/element_ready/bdt-slideshow.default",o)})}(jQuery,window.elementorFrontend);

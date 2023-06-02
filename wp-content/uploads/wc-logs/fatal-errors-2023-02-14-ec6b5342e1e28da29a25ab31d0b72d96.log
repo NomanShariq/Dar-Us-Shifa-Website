@@ -1,0 +1,22 @@
+2023-02-14T04:41:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\wpforms-lite\includes\admin\ajax-actions.php on line 123
+
+2023-02-14T04:41:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\widgets\class-wp-widget-rss.php on line 186
+
+2023-02-14T04:42:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\copy-delete-posts\menu\configuration.php on line 12
+
+2023-02-14T04:42:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Admin\Composer\Package.php on line 12
+
+2023-02-14T04:42:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\menu-icons\vendor\codeinwp\themeisle-sdk\src\Modules\Review.php on line 18
+
+2023-02-14T04:42:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-tracks-footer-pixel.php on line 128
+
+2023-02-14T04:53:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\meta-boxes.php on line 1637
+
+2023-02-14T06:57:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 4541
+
+2023-02-14T06:59:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\inc\sina-ext-hooks.php on line 3
+
+2023-02-14T06:59:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Internal\Admin\Onboarding\Onboarding.php on line 26
+
+2023-02-14T06:59:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\class-wpdb.php on line 2187
+

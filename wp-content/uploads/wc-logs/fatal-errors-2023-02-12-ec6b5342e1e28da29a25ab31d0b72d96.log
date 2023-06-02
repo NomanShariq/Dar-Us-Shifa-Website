@@ -1,0 +1,48 @@
+2023-02-12T15:13:34+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\google-listings-and-ads\vendor/jetpack-autoloader/class-autoloader.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\google-listings-and-ads\vendor\autoload_packages.php:12
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\google-listings-and-ads\src\Autoloader.php(37): require()
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\google-listings-and-ads\google-listings-and-ads.php(38): Automattic\WooCommerce\GoogleListingsAndAds\Autoloader::init()
+#2 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2314): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('google-listings...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\google-listings-and-ads\vendor\autoload_packages.php on line 12
+
+2023-02-12T15:13:37+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\google-listings-and-ads\vendor/jetpack-autoloader/class-autoloader.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\google-listings-and-ads\vendor\autoload_packages.php:12
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\google-listings-and-ads\src\Autoloader.php(37): require()
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\google-listings-and-ads\google-listings-and-ads.php(38): Automattic\WooCommerce\GoogleListingsAndAds\Autoloader::init()
+#2 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2314): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(192): plugin_sandbox_scrape('google-listings...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\google-listings-and-ads\vendor\autoload_packages.php on line 12
+
+2023-02-12T15:19:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\mailpoet\lib\Config\PopulatorData\Templates\BookStoreWithCoupon.php on line 4
+
+2023-02-12T21:32:25+00:00 CRITICAL Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in C:\xampp\htdocs\wordpress\wp-content\plugins\advanced-import\admin\class-advanced-import-admin.php:2285
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\advanced-import\admin\class-advanced-import-admin.php(2285): json_decode(Array, true)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\advanced-import\admin\class-elementor-import.php(138): Advanced_Import_Admin->isJson(Array)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\advanced-import\admin\class-elementor-import.php(224): Advanced_Import_Elementor->elementor_data(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\advanced-import\admin\class-advanced-import-admin.php(2304): Advanced_Import_Elementor->process_elementor_posts()
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\advanced-import\admin\class-advanced-import-admin.php(1245): Advanced_Import_Admin->import_menu_and_options()
+#5 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): Advanced_Import_Admin->import_content('')
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#7 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_import_...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\advanced-import\admin\class-advanced-import-admin.php on line 2285
+
+2023-02-12T21:41:45+00:00 CRITICAL Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in C:\xampp\htdocs\wordpress\wp-content\plugins\advanced-import\admin\class-advanced-import-admin.php:2285
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\advanced-import\admin\class-advanced-import-admin.php(2285): json_decode(Array, true)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\advanced-import\admin\class-elementor-import.php(138): Advanced_Import_Admin->isJson(Array)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\advanced-import\admin\class-elementor-import.php(224): Advanced_Import_Elementor->elementor_data(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\advanced-import\admin\class-advanced-import-admin.php(2304): Advanced_Import_Elementor->process_elementor_posts()
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\advanced-import\admin\class-advanced-import-admin.php(1245): Advanced_Import_Admin->import_menu_and_options()
+#5 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): Advanced_Import_Admin->import_content('')
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#7 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_import_...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\advanced-import\admin\class-advanced-import-admin.php on line 2285
+
